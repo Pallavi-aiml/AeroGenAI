@@ -1,0 +1,10 @@
+[
+  {
+    "file": "e850.dat",
+    "reason": "normalize_failed"
+  },
+  {
+    "file": "naca1.dat",
+    "reason": "normalize_failed"
+  }
+]

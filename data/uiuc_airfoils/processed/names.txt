@@ -1,0 +1,1606 @@
+0000  2032c.dat                         20-32C AIRFOIL
+0001  a18.dat                           A18 (original)
+0002  a18sm.dat                         A18 (smoothed)
+0003  a63a108c.dat                      NASA/AMES 63A108 MOD C AIRFOIL
+0004  ag03.dat                          AG03 (flat aft bottom)
+0005  ag04.dat                          AG04
+0006  ag08.dat                          AG08
+0007  ag09.dat                          AG09
+0008  ag10.dat                          AG10
+0009  ag11.dat                          AG11
+0010  ag12.dat                          AG12
+0011  ag13.dat                          AG13
+0012  ag14.dat                          AG14
+0013  ag16.dat                          AG16
+0014  ag17.dat                          AG17
+0015  ag18.dat                          AG18
+0016  ag19.dat                          AG19
+0017  ag23.dat                          AG23 XC Bubble Dancer Root Airfoil
+0018  ag24.dat                          AG24 Bubble Dancer DLG by Mark Drela | The AG2x airfoils are intended to be used on composite versions of the Bubble Dancer and the Allegro-Lite.
+0019  ag25.dat                          AG25 Bubble Dancer DLG by Mark Drela | The AG2x airfoils are intended to be used on composite versions of the Bubble Dancer and the Allegro-Lite.
+0020  ag26.dat                          AG26 Bubble Dancer DLG by Mark Drela | The AG2x airfoils are intended to be used on composite versions of the Bubble Dancer and the Allegro-Lite.
+0021  ag27.dat                          AG27 Bubble Dancer DLG by Mark Drela | The AG2x airfoils are intended to be used on composite versions of the Bubble Dancer and the Allegro-Lite.
+0022  ag35.dat                          AG35
+0023  ag36.dat                          AG36
+0024  ag37.dat                          AG37
+0025  ag38.dat                          AG38
+0026  ag44ct02r.dat                     AG44ct -02f
+0027  ag455ct02r.dat                    AG455ct -02f rot.
+0028  ag45c03.dat                       AG45c -03f
+0029  ag45ct02r.dat                     AG45ct -02f
+0030  ag46c03.dat                       AG46c -03f
+0031  ag46ct02r.dat                     AG46ct  -02f rot.
+0032  ag47c03.dat                       AG47c -03f
+0033  ag47ct02r.dat                     AG47ct  -02f rot.
+0034  ag52.dat                          AG52
+0035  ag53.dat                          AG53
+0036  ag54.dat                          AG54
+0037  ag55.dat                          AG55
+0038  ah21-7.dat                        AH21 7% version (Andrew Hollom)
+0039  ah21-9.dat                        AH21 9% version (Andrew Hollom)
+0040  ah63k127.dat                      AH 63-K-127/24
+0041  ah6407.dat                        AH-6-40-7 AIRFOIL
+0042  ah7476.dat                        AH-7-47-6 AIRFOIL
+0043  ah79100a.dat                      AH 79-100 A AIRFOIL
+0044  ah79100b.dat                      AH 79-100 B AIRFOIL
+0045  ah79100c.dat                      AH 79-100 C AIRFOIL
+0046  ah79k132.dat                      AH 79-K-132/20
+0047  ah79k135.dat                      AH 79-K-135/20 B
+0048  ah79k143.dat                      AH 79-K-143/18
+0049  ah80129.dat                       AH 80-129
+0050  ah80136.dat                       AH 80-136
+0051  ah80140.dat                       AH 80-140
+0052  ah81131.dat                       AH 81-131
+0053  ah81k144.dat                      AH 81-K-144/17
+0054  ah81k144wfKlappe.dat              AH 81-K-144 W-F KLAPPE
+0055  ah82150a.dat                      AH 82-150 A
+0056  ah82150f.dat                      AH 82-150 F
+0057  ah83150q.dat                      AH 83-150 Q
+0058  ah83159.dat                       AH 83-159
+0059  ah85l120.dat                      AH 85-L-120/17
+0060  ah88k130.dat                      AH 88-K-130/20
+0061  ah88k136.dat                      AH 88-K-136/16
+0062  ah93156.dat                       AH 93-156
+0063  ah93157.dat                       AH 93-157
+0064  ah93k130.dat                      AH 93-K-130/15
+0065  ah93k131.dat                      AH 93-K-131/15
+0066  ah93k132.dat                      AH 93-K-132/15
+0067  ah93w145.dat                      AH 93-W-145
+0068  ah93w174.dat                      AH 93-W-174
+0069  ah93w215.dat                      AH 93-W-215
+0070  ah93w257.dat                      AH 93-W-257
+0071  ah93w300.dat                      AH 93-W-300
+0072  ah93w480b.dat                     AH 93-W-480B
+0073  ah94145.dat                       AH 94-145
+0074  ah94156.dat                       AH 94-156
+0075  ah94w301.dat                      AH 94-W-301
+0076  ah95160.dat                       AH 95-160
+0077  ames01.dat                        NASA/AMES A-01 AIRFOIL
+0078  ames02.dat                        NASA/AMES A-02 AIRFOIL
+0079  ames03.dat                        NASA/AMES A-03 AIRFOIL
+0080  amsoil1.dat                       RUTAN CANARD AIRFOIL
+0081  amsoil2.dat                       RUTAN WING AIRFOIL
+0082  apex16.dat                        Apex 16 (normalized using XFOIL date021206)
+0083  aquilasm.dat                      AQUILA 9.3% smoothed
+0084  arad10.dat                        ARA-D 10% AIRFOIL
+0085  arad13.dat                        ARA-D 13% AIRFOIL
+0086  arad20.dat                        ARA-D 20% AIRFOIL
+0087  arad6.dat                         ARA-D 6% AIRFOIL
+0088  as5045.dat                        AS5045 (15%) | Ref: http://www.krnet.org/as504x/ [original link: http://amber.aae.uiuc.edu/~ashok/kr2/airfoils/tests/]
+0089  as5046.dat                        AS5046 (16%) | Ref: http://www.krnet.org/as504x/ [original link: http://amber.aae.uiuc.edu/~ashok/kr2/airfoils/tests/]
+0090  as5048.dat                        AS5048 (18%) | Ref: http://www.krnet.org/as504x/ [original link: http://amber.aae.uiuc.edu/~ashok/kr2/airfoils/tests/]
+0091  atr72sm.dat                       Smoothed ATR airfoil coordinates obtained  using AFSMO (Harry Morgan's NASA smoothing program)
+0092  august160.dat                     AUGUST 160
+0093  avistar.dat                       AVISTAR
+0094  b29root.dat                       B-29 ROOT AIRFOIL
+0095  b29tip.dat                        B-29 TIP AIRFOIL
+0096  b540ols.dat                       BELL 540 AIRFOIL (MODIFIED NACA 0012)
+0097  b707a.dat                         BOEING 707 .08 SPAN AIRFOIL
+0098  b707b.dat                         BOEING 707 .19 SPAN AIRFOIL
+0099  b707c.dat                         BOEING 707 .40 SPAN AIRFOIL
+0100  b707d.dat                         BOEING 707 .54 SPAN AIRFOIL
+0101  b707e.dat                         BOEING 707 .99 SPAN AIRFOIL
+0102  b737a.dat                         BOEING 737 ROOT AIRFOIL
+0103  b737b.dat                         BOEING 737 MIDSPAN AIRFOIL
+0104  b737c.dat                         BOEING 737 MIDSPAN AIRFOIL
+0105  b737d.dat                         BOEING 737 OUTBOARD AIRFOIL
+0106  bacj.dat                          BOEING AIRFOIL J
+0107  bacnlf.dat                        BOEING HSNLF AIRFOIL
+0108  bacxxx.dat                        BOEING BACXXX AIRFOIL
+0109  bambino6.dat                      Bambino 6
+0110  be50.dat                          BE50 (original)
+0111  be50sm.dat                        BE50 (smoothed)
+0112  boe103.dat                        BOEING 103 AIRFOIL
+0113  boe106.dat                        BOEING 106 AIRFOIL
+0114  bqm34.dat                         RYAN BQM-34 FIREBEE WING AIRFOIL
+0115  bw050209.dat                      BW 05 02 09
+0116  bw3.dat                           Bergey BW-3  (smoothed)
+0117  c141a.dat                         LOCKHEED C-141 BL0 AIRFOIL
+0118  c141b.dat                         LOCKHEED C-141 BL113.6 AIRFOIL
+0119  c141c.dat                         LOCKHEED C-141 BL426.57 AIRFOIL
+0120  c141d.dat                         LOCKHEED C-141 BL610.61 AIRFOIL
+0121  c141e.dat                         LOCKHEED C-141 BL761.11 AIRFOIL
+0122  c141f.dat                         LOCKHEED C-141 BL958.89 AIRFOIL
+0123  c5a.dat                           LOCKHEED C-5A BL0 AIRFOIL
+0124  c5b.dat                           LOCKHEED C-5A BL488.2 AIRFOIL
+0125  c5c.dat                           LOCKHEED C-5A BL576 AIRFOIL
+0126  c5d.dat                           LOCKHEED C-5A BL758.6 AIRFOIL
+0127  c5e.dat                           LOCKHEED C-5A BL1256 AIRFOIL
+0128  cap21c.dat                        CAP 21   (TraCFoil)
+0129  cast102.dat                       CAST 10-2/DOA 2 AIRFOIL
+0130  ch10sm.dat                        CH10 (smoothed)
+0131  chen.dat                          CHEN AIRFOIL
+0132  clarkk.dat                        CLARK K AIRFOIL
+0133  clarkv.dat                        CLARK V AIRFOIL
+0134  clarkw.dat                        CLARK W AIRFOIL
+0135  clarkx.dat                        CLARK X AIRFOIL
+0136  clarky.dat                        CLARK Y AIRFOIL
+0137  clarkyh.dat                       CLARK YH AIRFOIL
+0138  clarkys.dat                       CLARK YS AIRFOIL
+0139  clarkysm.dat                      CLARK-Y 11.7% smoothed
+0140  clarkz.dat                        CLARK Z AIRFOIL
+0141  clarym15.dat                      CLARK YM-15 AIRFOIL
+0142  clarym18.dat                      CLARK YM-18 AIRFOIL
+0143  coanda1.dat                       Coanda 1
+0144  coanda2.dat                       Coanda 2
+0145  cootie.dat                        WACO COOTIE AIRFOIL
+0146  cr001sm.dat                       cr001sm
+0147  cr1.dat                           CURTISS CR-1 AIRFOIL
+0148  curtisc72.dat                     Curtis C-72
+0149  dae11.dat                         DAE-11 AIRFOIL
+0150  dae21.dat                         DAE-21 AIRFOIL
+0151  dae31.dat                         DAE-31 AIRFOIL
+0152  dae41.dat                         DAE 41
+0153  dae51.dat                         DAE-51 AIRFOIL
+0154  dai1238.dat                       DAI 1238
+0155  dai1335.dat                       DAI 1335
+0156  dai1336.dat                       DAI 1336
+0157  davis.dat                         Davis AIRFOIL
+0158  davis_corrected.dat               DAVIS BASIC B-24 WING AIRFOIL
+0159  davissm.dat                       davissm
+0160  daytonwright6.dat                 Dayton-Wright 6
+0161  daytonwrightt1.dat                Dayton-Wright T-1
+0162  dbln526.dat                       SIKORSKY DBLN-526 AIRFOIL
+0163  defcnd1.dat                       DEFIANT CANARD BL20 AIRFOIL
+0164  defcnd2.dat                       DEFIANT CANARD BL110 AIRFOIL
+0165  defcnd3.dat                       DEFIANT CANARD BL145 AIRFOIL
+0166  df101.dat                         DF 101 AIRFOIL
+0167  df102.dat                         DF102
+0168  dfvlrr4.dat                       DFVLR R-4 AIRFOIL
+0169  dga1138.dat                       D.G.A. 1138
+0170  dga1182.dat                       D.G.A. 1182
+0171  dh4009sm.dat                      dh4009sm
+0172  doa5.dat                          DORNIER A-5 AIRFOIL
+0173  dormoy.dat                        Dormoy
+0174  drgnfly.dat                       DRAGONFLY CANARD
+0175  dsma523a.dat                      DSMA-523A AIRFOIL
+0176  dsma523b.dat                      DSMA-523B AIRFOIL
+0177  du84132v.dat                      DELFT DU84-132V3 AIRFOIL (MEASURED)
+0178  du8608418.dat                     DU86-084/18 8.44%
+0179  du861372.dat                      DU 86-137/25 AIRFOIL
+0180  e1098.dat                         EPPLER 1098 AIRFOIL
+0181  e1200.dat                         EPPLER 1200 AIRFOIL
+0182  e1210.dat                         EPPLER 1210 AIRFOIL
+0183  e1211.dat                         EPPLER 1211 AIRFOIL
+0184  e1212.dat                         EPPLER E1212 AIRFOIL
+0185  e1212mod.dat                      EPPLER E1212MOD AIRFOIL
+0186  e1213.dat                         EPPLER 1213 AIRFOIL
+0187  e1214.dat                         EPPLER 1214 AIRFOIL
+0188  e1230.dat                         EPPLER 1230 AIRFOIL
+0189  e1233.dat                         EPPLER 1233 AIRFOIL
+0190  e168.dat                          E168  (12.45%)
+0191  e169.dat                          E169  (14.4%)
+0192  e171.dat                          (Dicke 12.28%)
+0193  e174.dat                          E174  (Dicke 8.92%)
+0194  e176.dat                          E176  (8.83%)
+0195  e178.dat                          E178  (8.69%)
+0196  e180.dat                          E180  (8.59%)
+0197  e182.dat                          E182 (8.47%)
+0198  e184.dat                          E184  (8.33%)
+0199  e186.dat                          E186  (10.27%)
+0200  e193.dat                          E193  (10.22%)
+0201  e195.dat                          E195  (11.82%)
+0202  e197.dat                          E197  (13.49%)
+0203  e201.dat                          E201  (11.88%)
+0204  e203.dat                          E203  (13.64%)
+0205  e205.dat                          E205  (10.48%)
+0206  e207.dat                          E207  (12.04%)
+0207  e209.dat                          E209  (13.72%)
+0208  e210.dat                          E210  (13.64%)
+0209  e211.dat                          E211  (10.96%)
+0210  e212.dat                          E212  (10.55%)
+0211  e214.dat                          E214  (11.1%)
+0212  e216.dat                          E216  (10.4%)
+0213  e220.dat                          E220  (11.48%)
+0214  e221.dat                          E221  (9.39%)
+0215  e222.dat                          E222  (10.17%)
+0216  e224.dat                          E224  (10.17%)
+0217  e226.dat                          E226  (10.19%)
+0218  e228.dat                          E10(08%)
+0219  e230.dat                          E230  (9.96%)
+0220  e231.dat                          E231
+0221  e266.dat                          EPPLER 266 AIRFOIL
+0222  e297.dat                          EPPLER 297 AIRFOIL
+0223  e325.dat                          EPPLER 325 AIRFOIL
+0224  e326.dat                          EPPLER 326 AIRFOIL
+0225  e327.dat                          EPPLER 327 AIRFOIL
+0226  e328.dat                          EPPLER 328 AIRFOIL
+0227  e329.dat                          EPPLER 329 AIRFOIL
+0228  e330.dat                          EPPLER 330 AIRFOIL
+0229  e331.dat                          EPPLER 331 AIRFOIL
+0230  e332.dat                          EPPLER 332 AIRFOIL
+0231  e333.dat                          EPPLER 333 AIRFOIL
+0232  e334.dat                          EPPLER 334 AIRFOIL
+0233  e335.dat                          EPPLER 335 AIRFOIL
+0234  e336.dat                          EPPLER 336 AIRFOIL
+0235  e337.dat                          EPPLER 337 AIRFOIL
+0236  e338.dat                          EPPLER 338 AIRFOIL
+0237  e339.dat                          EPPLER 339 AIRFOIL
+0238  e340.dat                          EPPLER 340 AIRFOIL
+0239  e341.dat                          EPPLER 341 AIRFOIL
+0240  e342.dat                          EPPLER 342 AIRFOIL
+0241  e343.dat                          EPPLER 343 AIRFOIL
+0242  e344.dat                          EPPLER 344 AIRFOIL
+0243  e360.dat                          EPPLER 360 AIRFOIL
+0244  e361.dat                          EPPLER 361 AIRFOIL
+0245  e374.dat                          E374
+0246  e376.dat                          EPPLER 376 AIRFOIL
+0247  e377.dat                          EPPLER 377 AIRFOIL
+0248  e377m.dat                         EPPLER 377 (MODIFIED) AIRFOIL
+0249  e378.dat                          EPPLER 378 AIRFOIL
+0250  e379.dat                          EPPLER 379 AIRFOIL
+0251  e385.dat                          E385  (8.41%)
+0252  e387.dat                          E387
+0253  e392.dat                          E392  (10.15%)
+0254  e393.dat                          EPPLER 393 AIRFOIL
+0255  e395.dat                          EPPLER 395 AIRFOIL
+0256  e396.dat                          EPPLER 396 AIRFOIL
+0257  e397.dat                          EPPLER 397 AIRFOIL
+0258  e398.dat                          EPPLER 398 AIRFOIL
+0259  e399.dat                          EPPLER 399 AIRFOIL
+0260  e403.dat                          EPPLER 403 AIRFOIL
+0261  e407.dat                          EPPLER 407 AIRFOIL
+0262  e417.dat                          EPPLER 417 AIRFOIL
+0263  e420.dat                          EPPLER 420 AIRFOIL
+0264  e421.dat                          EPPLER 421 AIRFOIL
+0265  e422.dat                          EPPLER 422 AIRFOIL
+0266  e423.dat                          E423
+0267  e426.dat                          EPPLER 426 AIRFOIL
+0268  e428.dat                          EPPLER 428 AIRFOIL
+0269  e431.dat                          EPPLER 431 AIRFOIL
+0270  e432.dat                          EPPLER 432 AIRFOIL
+0271  e433.dat                          EPPLER 433 AIRFOIL
+0272  e434.dat                          EPPLER 434 AIRFOIL
+0273  e435.dat                          EPPLER 435 AIRFOIL
+0274  e471.dat                          E471  (6.25%)
+0275  e472.dat                          EPPLER 472 AIRFOIL
+0276  e473.dat                          EPPLER 473 AIRFOIL
+0277  e474.dat                          E474  (14.09%)
+0278  e475.dat                          E475  (15.01%)
+0279  e479.dat                          EPPLER 479 AIRFOIL
+0280  e485.dat                          EPPLER 485 AIRFOIL
+0281  e49.dat                           EPPLER 49 AIRFOIL
+0282  e502.dat                          EPPLER 502 AIRFOIL
+0283  e520.dat                          EPPLER 520 AIRFOIL
+0284  e521.dat                          EPPLER 521 AIRFOIL
+0285  e540.dat                          EPPLER 540 AIRFOIL
+0286  e541.dat                          EPPLER 541 AIRFOIL
+0287  e542.dat                          EPPLER 542 AIRFOIL
+0288  e543.dat                          EPPLER 543 AIRFOIL
+0289  e544.dat                          EPPLER 544 AIRFOIL
+0290  e545.dat                          EPPLER 545 AIRFOIL
+0291  e546.dat                          EPPLER 546 AIRFOIL
+0292  e547.dat                          EPPLER 547 AIRFOIL
+0293  e548.dat                          EPPLER 548 AIRFOIL
+0294  e549.dat                          EPPLER 549 AIRFOIL
+0295  e550.dat                          EPPLER 550 AIRFOIL
+0296  e551.dat                          EPPLER 551 AIRFOIL
+0297  e552.dat                          EPPLER 552 AIRFOIL
+0298  e553.dat                          EPPLER 553 AIRFOIL
+0299  e554.dat                          EPPLER 554 AIRFOIL
+0300  e555.dat                          EPPLER 555 AIRFOIL
+0301  e556.dat                          EPPLER 556 AIRFOIL
+0302  e557.dat                          EPPLER 557 AIRFOIL
+0303  e558.dat                          EPPLER 558 AIRFOIL
+0304  e559.dat                          EPPLER 559 AIRFOIL
+0305  e560.dat                          EPPLER 560 AIRFOIL
+0306  e561.dat                          EPPLER 561 AIRFOIL
+0307  e562.dat                          EPPLER 562 AIRFOIL
+0308  e58.dat                           EPPLER 58 AIRFOIL
+0309  e580.dat                          EPPLER 580 AIRFOIL
+0310  e582.dat                          EPPLER 582 AIRFOIL
+0311  e583.dat                          EPPLER 583 AIRFOIL
+0312  e584.dat                          EPPLER 584 AIRFOIL
+0313  e585.dat                          EPPLER 585 AIRFOIL
+0314  e587.dat                          EPPLER 587 AIRFOIL
+0315  e59.dat                           EPPLER 59 AIRFOIL
+0316  e591.dat                          E591
+0317  e593.dat                          EPPLER 593 AIRFOIL
+0318  e598.dat                          EPPLER 598 AIRFOIL
+0319  e603.dat                          EPPLER 603 AIRFOIL
+0320  e604.dat                          EPPLER 604 AIRFOIL
+0321  e61.dat                           E61  (5.64%)
+0322  e62.dat                           E62  (5.62%)
+0323  e625.dat                          EPPLER 625 AIRFOIL
+0324  e63.dat                           E63  (4.25%)
+0325  e635.dat                          EPPLER 635 AIRFOIL
+0326  e636.dat                          EPPLER 636 AIRFOIL
+0327  e637.dat                          EPPLER 637 AIRFOIL
+0328  e638.dat                          EPPLER 638 AIRFOIL
+0329  e639.dat                          EPPLER 639 AIRFOIL
+0330  e64.dat                           E64  (8.45%)
+0331  e642.dat                          EPPLER 642 AIRFOIL
+0332  e654.dat                          EPPLER 654 AIRFOIL
+0333  e655.dat                          EPPLER 655 AIRFOIL
+0334  e656.dat                          EPPLER 656 AIRFOIL
+0335  e657.dat                          EPPLER 657 AIRFOIL
+0336  e66.dat                           EPPLER 66 AIRFOIL
+0337  e662.dat                          EPPLER E662 AIRFOIL
+0338  e664.dat                          EPPLER 664 AIRFOIL
+0339  e664ex.dat                        EPPLER 664 (EXTENDED) AIRFOIL
+0340  e668.dat                          EPPLER 668 AIRFOIL
+0341  e67.dat                           EPPLER 67 AIRFOIL
+0342  e678.dat                          EPPLER 678 AIRFOIL
+0343  e68.dat                           EPPLER 68 AIRFOIL
+0344  e682.dat                          EPPLER 682 AIRFOIL
+0345  e694.dat                          EPPLER 694 AIRFOIL
+0346  e71.dat                           E71  (5.15%)
+0347  e715.dat                          EPPLER 715 AIRFOIL
+0348  e748.dat                          EPPLER 748 AIRFOIL
+0349  e793.dat                          EPPLER 793 AIRFOIL
+0350  e817.dat                          EPPLER 817 HYDROFOIL AIRFOIL
+0351  e818.dat                          EPPLER 818 HYDROFOIL AIRFOIL
+0352  e836.dat                          EPPLER E836 HYDROFOIL AIRFOIL
+0353  e837.dat                          EPPLER E837 HYDROFOIL AIRFOIL
+0354  e838.dat                          EPPLER E838 HYDROFOIL AIRFOIL
+0355  e851.dat                          EPPLER E851 AIRFOIL
+0356  e852.dat                          EPPLER E852 AIRFOIL
+0357  e853.dat                          EPPLER E853 AIRFOIL
+0358  e854.dat                          EPPLER E854 AIRFOIL
+0359  e855.dat                          EPPLER 855 AIRFOIL
+0360  e856.dat                          EPPLER 856 AIRFOIL
+0361  e857.dat                          EPPLER 857 AIRFOIL
+0362  e858.dat                          EPPLER 858 AIRFOIL
+0363  e862.dat                          EPPLER 862 STRUT AIRFOIL
+0364  e863.dat                          EPPLER 863 STRUT AIRFOIL
+0365  e864.dat                          EPPLER 864 STRUT AIRFOIL
+0366  e874.dat                          EPPLER 874 HYDROFOIL AIRFOIL
+0367  e904.dat                          EPPLER 904 AIRFOIL
+0368  e908.dat                          EPPLER 908 AIRFOIL
+0369  ea61009.dat                       EPPLER EA 6(-1)-009 AIRFOIL
+0370  ea61012.dat                       EPPLER EA 6(-1)-012 AIRFOIL
+0371  ea81006.dat                       EPPLER EA 8(-1)-006 AIRFOIL
+0372  ebambino7.dat                     E. Bambino
+0373  ec863914.dat                      EPPLER EC 86(-3)-914 AIRFOIL
+0374  eh0009.dat                        EH 0.0/9.0
+0375  eh1070.dat                        Eh 1.0/7.0
+0376  eh1090.dat                        EH 1.0/9.0
+0377  eh1590.dat                        EH 1.5/9.0
+0378  eh2010.dat                        EH 2.0/10
+0379  eh2012.dat                        EH 2.0/12
+0380  eh2070.dat                        EH 2.0/7.0
+0381  eh2510.dat                        EH 2.5/10
+0382  eh3012.dat                        EH 3.0/12
+0383  eiffel10.dat                      Eiffel 10 (Wright) - 1903 Wright Flyer airfoil
+0384  eiffel371.dat                     Eiffel 371 (Monge)
+0385  eiffel385.dat                     Eiffel 385 (S.T. Ae)
+0386  eiffel428.dat                     Eiffel 428 (Bleriot)
+0387  eiffel430.dat                     Eiffel 430 (Lachassgne)
+0388  esa40.dat                         ESA40
+0389  falcon.dat                        Falcon
+0390  fauvel.dat                        FAUVEL 14% AIRFOIL
+0391  fg1.dat                           Fage & Collins 1
+0392  fg2.dat                           Fage & Collins 2
+0393  fg3.dat                           Fage & Collins 3
+0394  fg4.dat                           Fage & Collins 4
+0395  fx049915.dat                      WORTMANN FX 049-915 AIRFOIL
+0396  fx05188.dat                       WORTMANN FX 05-188 AIRFOIL
+0397  fx05191.dat                       WORTMANN FX 05-191 AIRFOIL
+0398  fx057816.dat                      WORTMANN FX 057-816
+0399  fx05h126.dat                      WORTMANN FX 05-H-126 AIRFOIL
+0400  fx082512.dat                      WORTMANN FX 082-512 AIRFOIL
+0401  fx08s176.dat                      WORTMANN FX 08-S-176 AIRFOIL
+0402  fx2.dat                           WORTMANN FX 2 AIRFOIL
+0403  fx3.dat                           WORTMANN FX 3 AIRFOIL
+0404  fx38153.dat                       FX 38-153 AIRFOIL
+0405  fx60100.dat                       FX 60-100 AIRFOIL
+0406  fx601001.dat                      FX 60-100 (126) AIRFOIL
+0407  fx60100sm.dat                     FX60-100 10.0% smoothed
+0408  fx60126.dat                       WORTMANN FX 60-126 AIRFOIL
+0409  fx601261.dat                      FX 60-126/1 AIRFOIL
+0410  fx60157.dat                       FX 60-157 AIRFOIL
+0411  fx60160.dat                       FX 60-160 AIRFOIL
+0412  fx60177.dat                       FX 60-177 AIRFOIL
+0413  fx61140.dat                       FX 61-140 AIRFOIL
+0414  fx61147.dat                       FX 61-147 AIRFOIL
+0415  fx61163.dat                       FX 61-163 AIRFOIL
+0416  fx61168.dat                       FX 61-168 AIRFOIL
+0417  fx61184.dat                       FX 61-184 AIRFOIL
+0418  fx62k131.dat                      WORTMANN FX 62-K-131 AIRFOIL
+0419  fx62k153.dat                      FX 62-K-153/20 AIRFOIL
+0420  fx63100.dat                       FX 63-100 AIRFOIL
+0421  fx63110.dat                       FX 63-110 AIRFOIL
+0422  fx63120.dat                       FX 63-120 AIRFOIL
+0423  fx63137.dat                       WORTMANN FX 63-137 AIRFOIL
+0424  fx63137sm.dat                     FX 63-137 13.7% smoothed
+0425  fx63143.dat                       FX 63-143 AIRFOIL
+0426  fx63145.dat                       FX 63-145 AIRFOIL
+0427  fx63147.dat                       FX 63-147 AIRFOIL
+0428  fx63158.dat                       FX 63-158 AIRFOIL
+0429  fx6617a2.dat                      FX 66-17AII-182 AIRFOIL
+0430  fx6617ai.dat                      WORTMANN FX 66-17AII-182 AIRFOIL (AS TESTED AT NASA)
+0431  fx66182.dat                       FX 66-182 AIRFOIL
+0432  fx66196v.dat                      FX 66-S-196 V1 AIRFOIL
+0433  fx66a175.dat                      WORTMANN FX 66-17A-175 AIRFOIL
+0434  fx66h60.dat                       FX 66-H-60
+0435  fx66h80.dat                       FX 66-H-80
+0436  fx66s161.dat                      FX 66-S-161 AIRFOIL
+0437  fx66s171.dat                      FX 66-S-171 AIRFOIL
+0438  fx66s196.dat                      FX 66-S-196 AIRFOIL
+0439  fx67k150.dat                      FX 67-K-150/17 AIRFOIL
+0440  fx67k170.dat                      FX 67-K-170/17 AIRFOIL
+0441  fx68h120.dat                      FX 68-H-120
+0442  fx69274.dat                       FX 69-274
+0443  fx69h083.dat                      BELL/WORTMANN FX 69-H-083 AIRFOIL
+0444  fx69h098.dat                      BELL/WORTMANN FX 69-H-098 AIRFOIL
+0445  fx69pr281.dat                     FX 69-PR-281
+0446  fx71089a.dat                      WORTMANN FX 71-089A AIRFOIL
+0447  fx71120.dat                       WORTMANN FX 71-120 AIRFOIL
+0448  fx711520.dat                      FX 71-L-150/20 AIRFOIL
+0449  fx711525.dat                      FX 71-L-150/25 AIRFOIL
+0450  fx711530.dat                      FX 71-L-150/30 AIRFOIL
+0451  fx71l150.dat                      FX 71-L-150/30 AIRFOIL
+0452  fx72150a.dat                      WORTMANN FX 72-MS-150A AIRFOIL
+0453  fx72150b.dat                      WORTMANN FX 72-MS-150B AIRFOIL
+0454  fx72ls160.dat                     FX 72-LS-160
+0455  fx73170.dat                       FX 73-170
+0456  fx73170a.dat                      FX 73-170 A
+0457  fx73cl1152.dat                    FX 73-CL1-152
+0458  fx73cl2152.dat                    FX 73-CL2-152
+0459  fx73cl3152.dat                    FX 73-CL3-152
+0460  fx73k170.dat                      FX 73-K-170/22
+0461  fx74080.dat                       FX 74-080
+0462  fx74130wp1.dat                    FX 74-130 WP1
+0463  fx74130wp2.dat                    74-130 WP2
+0464  fx74130wp2mod.dat                 74-130 WP2 MOD
+0465  fx74cl5140.dat                    FX74_CL5_140
+0466  fx74cl6140.dat                    FX 74-CL6-140
+0467  fx74modsm.dat                     FX 74-Cl5-140 MOD  (smoothed)
+0468  fx75141.dat                       FX 75-141
+0469  fx75193.dat                       FX 75-193
+0470  fx75vg166.dat                     FX 75-VG-166/22
+0471  fx76100.dat                       FX 76-100
+0472  fx76120.dat                       FX 76-120
+0473  fx76mp120.dat                     FX 76-MP-120
+0474  fx76mp140.dat                     FX 76-MP-140
+0475  fx76mp160.dat                     FX 76-MP-160
+0476  fx77080.dat                       FX 77-080
+0477  fx77w121.dat                      FX 77-W-121
+0478  fx77w153.dat                      WORTMANN FX 77-W-153 AIRFOIL
+0479  fx77w258.dat                      WORTMANN FX 77-W-258 AIRFOIL
+0480  fx77w270.dat                      FX 77-W-270
+0481  fx77w270s.dat                     FX 77-W-270S
+0482  fx77w343.dat                      WORTMANN FX 77-W-343 AIRFOIL
+0483  fx78k140.dat                      FX 78-K-140/20
+0484  fx78k140a20.dat                   FX 78-K-140 A/20
+0485  fx78k150.dat                      FX 78-K-150/20
+0486  fx78k161.dat                      FX 78-K-161
+0487  fx78pk188.dat                     FX 78-PK-188/20
+0488  fx79k144.dat                      WORTMANN FX 79-K-144/17 AIRFOIL
+0489  fx79l100.dat                      FX 79-L-100
+0490  fx79l120.dat                      FX 79-L-120
+0491  fx79w151a.dat                     FX 79-W-151 A
+0492  fx79w470a.dat                     FX 79-W-470A
+0493  fx79w660a.dat                     FX 79-W-660A
+0494  fx80080.dat                       FX 80-080
+0495  fx83w108.dat                      FX 83-W-108
+0496  fx83w160.dat                      FX 83-W-160
+0497  fx83w227.dat                      FX 83-W-227
+0498  fx84w097.dat                      FX 84-W-097
+0499  fx84w127.dat                      FX 84-W-127
+0500  fx84w140.dat                      FX 84-W-140
+0501  fx84w150.dat                      FX 84-W-150
+0502  fx84w175.dat                      FX 84-W-175
+0503  fx84w218.dat                      FX 84-W-218
+0504  fxl142k.dat                       FX LIII-142 K 25 AIRFOIL
+0505  fxlv152.dat                       WORTMANN FX L V-152 AIRFOIL
+0506  fxm2.dat                          WORTMANN FX M2 AIRFOIL
+0507  fxs02196.dat                      FX S 02-196 AIRFOIL
+0508  fxs03182.dat                      FX S 03-182 AIRFOIL
+0509  fxs21158.dat                      FX S 02/1-158 AIRFOIL
+0510  geminism.dat                      GEMINI (smoothed)
+0511  giiia.dat                         GIII BL0 AIRFOIL
+0512  giiib.dat                         GIII BL45 AIRFOIL
+0513  giiic.dat                         GIII BL75 AIRFOIL
+0514  giiid.dat                         GIII BL86 AIRFOIL
+0515  giiie.dat                         GIII BL126 AIRFOIL
+0516  giiif.dat                         GIII BL145 AIRFOIL
+0517  giiig.dat                         GIII BL167 AIRFOIL
+0518  giiih.dat                         GIII BL207 AIRFOIL
+0519  giiii.dat                         GIII BL288 AIRFOIL
+0520  giiij.dat                         GIII BL332 AIRFOIL
+0521  giiik.dat                         GIII BL369 AIRFOIL
+0522  giiil.dat                         GIII BL387 AIRFOIL
+0523  giiim.dat                         GIII BL430 AIRFOIL
+0524  giiin.dat                         GIII BL450 AIRFOIL
+0525  glennmartin2.dat                  Glenn Martin 2
+0526  glennmartin3.dat                  Glenn Martin 3
+0527  glennmartin4.dat                  Glenn Martin 4
+0528  gm15sm.dat                        GM15 (smoothed)
+0529  goe05k.dat                        GOE 5K AIRFOIL
+0530  goe06k.dat                        GOE 6K AIRFOIL
+0531  goe07k.dat                        GOE 7K AIRFOIL
+0532  goe08k.dat                        GOE 8K AIRFOIL
+0533  goe09k.dat                        GOE 9K AIRFOIL
+0534  goe100.dat                        GOE 100 (SOPWITH) AIRFOIL
+0535  goe101.dat                        GOE 101 AIRFOIL
+0536  goe10k.dat                        GOE 10K AIRFOIL
+0537  goe113.dat                        GOE 113 AIRFOIL
+0538  goe114.dat                        GOE 114 (MVA MK.1) AIRFOIL
+0539  goe115.dat                        GOE 115 (MVA MK.2) AIRFOIL
+0540  goe116.dat                        GOE 116 (MVA MK.3) AIRFOIL
+0541  goe117.dat                        GOE 117 (MVA MK.4) AIRFOIL
+0542  goe118.dat                        GOE 118 (MVA MK.7) AIRFOIL
+0543  goe11k.dat                        GOE 11K AIRFOIL
+0544  goe121.dat                        GOE 121 (MVA H.1) AIRFOIL
+0545  goe122.dat                        GOE 122 (MVA H.2) AIRFOIL
+0546  goe123.dat                        GOE 123 AIRFOIL
+0547  goe124.dat                        GOE 124 (MVA H.4) AIRFOIL
+0548  goe12k.dat                        GOE 12K AIRFOIL
+0549  goe133.dat                        GOE 133 (MVA H.11) AIRFOIL
+0550  goe134.dat                        GOE 134 (MVA H.12) AIRFOIL
+0551  goe137.dat                        GOE 137 (MVA H.15) AIRFOIL
+0552  goe13k.dat                        GOE 13K AIRFOIL
+0553  goe14.dat                         GOE 14 AIRFOIL
+0554  goe140.dat                        GOE 140 (MVA H.17) AIRFOIL
+0555  goe142.dat                        GOE 142 (MVA H.19) AIRFOIL
+0556  goe143.dat                        GOE 143 (MVA H.20) AIRFOIL
+0557  goe144.dat                        GOE 144 (MVA H.21) AIRFOIL
+0558  goe147.dat                        GOE 147 (MVA H.6) AIRFOIL
+0559  goe14k.dat                        GOE 14K AIRFOIL
+0560  goe15.dat                         GOE 15 AIRFOIL
+0561  goe155.dat                        GOE 155 (SSW D.1) AIRFOIL
+0562  goe15k.dat                        GOE 15K AIRFOIL
+0563  goe164.dat                        GOE 164 (MVA MK.10) AIRFOIL
+0564  goe165.dat                        GOE 165 (MVA MK.11) AIRFOIL
+0565  goe167.dat                        GOE 167 (V.KARMAN PROP.2) AIRFOIL
+0566  goe16k.dat                        GOE 16K AIRFOIL
+0567  goe173.dat                        GOE 173 (ALBATROS 6020) AIRFOIL
+0568  goe174.dat                        GOE 174 (ALBATROS 5020) AIRFOIL
+0569  goe176.dat                        GOE 176 (ALBATROS 7020) AIRFOIL
+0570  goe177.dat                        GOE 177 AIRFOIL
+0571  goe178.dat                        GOE 178 AIRFOIL
+0572  goe180.dat                        GOE 180 (MVA H.26) AIRFOIL
+0573  goe182.dat                        GOE 182 (MVA H.27) AIRFOIL
+0574  goe184.dat                        GOE 184 (MVA H.29) AIRFOIL
+0575  goe187.dat                        GOE 187 (SCHUETTE-LANZ 2U10) AIRFOIL
+0576  goe188.dat                        GOE 188 (SCHUETTE-LANZ 3U10) AIRFOIL
+0577  goe190.dat                        GOE 190 (MVA MK.18) AIRFOIL
+0578  goe195.dat                        GOE 195 AIRFOIL
+0579  goe198.dat                        GOE 198 (L.F.G. 5294) AIRFOIL
+0580  goe199.dat                        GOE 199 (L.F.G. 5406) AIRFOIL
+0581  goe207.dat                        GOE 207 (AVIATIK V8) AIRFOIL
+0582  goe210.dat                        GOE 210 (DAIMLER) AIRFOIL
+0583  goe217.dat                        GOE 217 (MVA MK.12) AIRFOIL
+0584  goe222.dat                        GOE 222 (MVA H.33) AIRFOIL
+0585  goe223.dat                        GOE 223 (MVA H.34) AIRFOIL
+0586  goe225.dat                        GOE 225 (MVA H.35) AIRFOIL
+0587  goe226.dat                        GOE 226 (MVA H.36) AIRFOIL
+0588  goe227.dat                        GOE 227 (MVA H.37) AIRFOIL
+0589  goe228.dat                        GOE 228 (MVA H.38) AIRFOIL
+0590  goe229.dat                        GOE 229 (MVA H.39) AIRFOIL
+0591  goe233.dat                        GOE 233 (MVA CA4) AIRFOIL
+0592  goe234.dat                        GOE 234 (MVA CA5) AIRFOIL
+0593  goe235.dat                        GOE 235 (SCHUETTE-LANZ) AIRFOIL
+0594  goe238.dat                        GOE 238 (HANSA-BRANDENBURG) AIRFOIL
+0595  goe239.dat                        GOE 239 (MVA H.31) AIRFOIL
+0596  goe240.dat                        GOE 240 (KOLLER) AIRFOIL
+0597  goe241.dat                        GOE 241 (MVA PR.1) AIRFOIL
+0598  goe242.dat                        GOE 242 (MVA PR.2) AIRFOIL
+0599  goe243.dat                        GOE 243 (MVA PR.3) AIRFOIL
+0600  goe244.dat                        GOE 244 (MVA PR.4) AIRFOIL
+0601  goe255.dat                        GOE 255 (MVA CA.6) AIRFOIL
+0602  goe256.dat                        GOE 256 (JUNKERS E) AIRFOIL
+0603  goe257.dat                        GOE 257 AIRFOIL
+0604  goe264.dat                        GOE 264 AIRFOIL
+0605  goe265.dat                        GOE 265 AIRFOIL
+0606  goe269.dat                        GOE 269 AIRFOIL
+0607  goe274.dat                        GOE 274 (DAIMLER V) AIRFOIL
+0608  goe275.dat                        GOE 275 (DAIMLER VI) AIRFOIL
+0609  goe276.dat                        GOE 276 (DAIMLER VII) AIRFOIL
+0610  goe277.dat                        GOE 277 (DAIMLER VIII) AIRFOIL
+0611  goe278.dat                        GOE 278 (DAIMLER IX) AIRFOIL
+0612  goe279.dat                        GOE 279 (DAIMLER X) AIRFOIL
+0613  goe280.dat                        GOE 280 (DAIMLER XI) AIRFOIL
+0614  goe281.dat                        GOE 281 (DAIMLER XII) AIRFOIL
+0615  goe282.dat                        GOE 282 (DAIMLER XIII) AIRFOIL
+0616  goe284.dat                        GOE 284 AIRFOIL
+0617  goe285.dat                        GOE 285 AIRFOIL
+0618  goe286.dat                        GOE 286 AIRFOIL
+0619  goe287.dat                        GOE 287 AIRFOIL
+0620  goe288.dat                        GOE 288 AIRFOIL
+0621  goe289.dat                        GOE 289 (MVA 289) AIRFOIL
+0622  goe290.dat                        GOE 290 (MVA 290) AIRFOIL
+0623  goe298.dat                        GOE 298 AIRFOIL
+0624  goe29b.dat                        GOE 29B AIRFOIL
+0625  goe300.dat                        GOE 300 (FRIEDRICHSHAFEN G20) AIRFOIL
+0626  goe301.dat                        GOE 301 (FRIEDRICHSHAFEN G 13) AIRFOIL
+0627  goe303.dat                        GOE 303 (FRIEDRICHSHAFEN G03) AIRFOIL
+0628  goe304.dat                        GOE 304 (FRIEDRICHSHAFEN G02) AIRFOIL
+0629  goe308.dat                        GOE 308 (MVA H.40) AIRFOIL
+0630  goe309.dat                        GOE 309 (MVA H.41) AIRFOIL
+0631  goe310.dat                        GOE 310 (MVA H.42) AIRFOIL
+0632  goe311.dat                        GOE 311 (MVA H.43) AIRFOIL
+0633  goe314.dat                        GOE 314 (HANSA-BRANDENBURG) AIRFOIL
+0634  goe315.dat                        GOE 315 (HANSA-BRANDENBURG III.5) AIRFOIL
+0635  goe316.dat                        GOE 316 (HANSA-BRANDENBURG IV.5) AIRFOIL
+0636  goe318.dat                        GOE 318 (HANSA-BRANDENBURG VI.5) AIRFOIL
+0637  goe319.dat                        GOE 319 (HANSA-BRANDENBURG II) AIRFOIL
+0638  goe320.dat                        GOE 320 (HANSA-BRANDENBURG II.1) AIRFOIL
+0639  goe321.dat                        GOE 321 (HANSA-BRANDENBURG III.1) AIRFOIL
+0640  goe322.dat                        GOE 322 (HANSA-BRANDENBURG IV.1) AIRFOIL
+0641  goe323.dat                        GOE 323 (HANSA-BRANDENBURG V.1) AIRFOIL
+0642  goe324.dat                        GOE 324 (HANSA-BRANDENBURG) AIRFOIL
+0643  goe325.dat                        GOE 325 (PFALZ 54) AIRFOIL
+0644  goe326.dat                        GOE 326 (PFALZ 55) AIRFOIL
+0645  goe328.dat                        GOE 328 AIRFOIL
+0646  goe329.dat                        GOE 329 (PFALZ 58) AIRFOIL
+0647  goe330.dat                        GOE 330 (PFALZ 59) AIRFOIL
+0648  goe331.dat                        GOE 331 (PFALZ 60) AIRFOIL
+0649  goe332.dat                        GOE 332 (PFALZ 61) AIRFOIL
+0650  goe335.dat                        GOE 335 (D.F.W.) AIRFOIL
+0651  goe336.dat                        GOE 336 (MVA H.44) AIRFOIL
+0652  goe342.dat                        GOE 342 AIRFOIL
+0653  goe344.dat                        GOE 344 (PFALZ 71) AIRFOIL
+0654  goe346.dat                        GOE 346 (FRIEDRICHSHAFEN-STAAKEN) AIRFOIL
+0655  goe358.dat                        GOE 358 AIRFOIL
+0656  goe359.dat                        GOE 359 AIRFOIL
+0657  goe360.dat                        GOE 360 AIRFOIL
+0658  goe361.dat                        GOE 361 AIRFOIL
+0659  goe362.dat                        GOE 362 AIRFOIL
+0660  goe363.dat                        GOE 363 AIRFOIL
+0661  goe364.dat                        GOE 364 AIRFOIL
+0662  goe365.dat                        GOE 365 AIRFOIL
+0663  goe366.dat                        GOE 366 AIRFOIL
+0664  goe367.dat                        GOE 367 AIRFOIL
+0665  goe368.dat                        GOE 368 AIRFOIL
+0666  goe369.dat                        GOE 369 AIRFOIL
+0667  goe370.dat                        GOE 370 AIRFOIL
+0668  goe371.dat                        GOE 371 AIRFOIL
+0669  goe372.dat                        GOE 372 AIRFOIL
+0670  goe373.dat                        GOE 373 AIRFOIL
+0671  goe374.dat                        GOE 374 AIRFOIL
+0672  goe375.dat                        GOE 375 AIRFOIL
+0673  goe376.dat                        GOE 376 AIRFOIL
+0674  goe377.dat                        GOE 377 AIRFOIL
+0675  goe379.dat                        GOE 379 AIRFOIL
+0676  goe380.dat                        GOE 380 AIRFOIL
+0677  goe381.dat                        GOE 381 AIRFOIL
+0678  goe382.dat                        GOE 382 AIRFOIL
+0679  goe383.dat                        GOE 383 AIRFOIL
+0680  goe384.dat                        GOE 384 AIRFOIL
+0681  goe385.dat                        GOE 385 AIRFOIL
+0682  goe386.dat                        GOE 386 AIRFOIL
+0683  goe387.dat                        GOE 387 AIRFOIL
+0684  goe388.dat                        GOE 388 AIRFOIL
+0685  goe389.dat                        GOE 389 AIRFOIL
+0686  goe390.dat                        GOE 390 AIRFOIL
+0687  goe391.dat                        GOE 391 AIRFOIL
+0688  goe392.dat                        GOE 392 AIRFOIL
+0689  goe393.dat                        GOE 393 AIRFOIL
+0690  goe394.dat                        GOE 394 AIRFOIL
+0691  goe395.dat                        GOE 395 AIRFOIL
+0692  goe396.dat                        GOE 396 AIRFOIL
+0693  goe397.dat                        GOE 397 AIRFOIL
+0694  goe398.dat                        GOE 398 AIRFOIL
+0695  goe399.dat                        GOE 399 AIRFOIL
+0696  goe400.dat                        GOE 400 AIRFOIL
+0697  goe401.dat                        GOE 401 AIRFOIL
+0698  goe402.dat                        GOE 402 AIRFOIL
+0699  goe403.dat                        GOE 403 AIRFOIL
+0700  goe404.dat                        GOE 404 AIRFOIL
+0701  goe405.dat                        GOE 405 AIRFOIL
+0702  goe406.dat                        GOE 406 AIRFOIL
+0703  goe407.dat                        GOE 407 AIRFOIL
+0704  goe408.dat                        GOE 408 AIRFOIL
+0705  goe409.dat                        GOE 409 AIRFOIL
+0706  goe410.dat                        GOE 410 AIRFOIL
+0707  goe411.dat                        GOE 411 AIRFOIL
+0708  goe412.dat                        GOE 412 AIRFOIL
+0709  goe413.dat                        GOE 413 AIRFOIL
+0710  goe414.dat                        GOE 414 AIRFOIL
+0711  goe415.dat                        GOE 415 AIRFOIL
+0712  goe416a.dat                       GOE 416A AIRFOIL
+0713  goe417.dat                        GOE 417 AIRFOIL
+0714  goe417a.dat                       GOE 417A (GEW. PLATTE) AIRFOIL
+0715  goe418.dat                        GOE 418 AIRFOIL
+0716  goe419.dat                        GOE 419 AIRFOIL
+0717  goe420.dat                        GOE 420 AIRFOIL
+0718  goe421.dat                        GOE 421 AIRFOIL
+0719  goe422.dat                        GOE 422 AIRFOIL
+0720  goe423.dat                        GOE 423 AIRFOIL
+0721  goe424.dat                        GOE 424 AIRFOIL
+0722  goe425.dat                        GOE 425 AIRFOIL
+0723  goe427.dat                        GOE 427 AIRFOIL
+0724  goe428.dat                        GOE 428 AIRFOIL
+0725  goe429.dat                        GOE 429 AIRFOIL
+0726  goe430.dat                        GOE 430 AIRFOIL
+0727  goe431.dat                        GOE 431 AIRFOIL
+0728  goe432.dat                        GOE 432 AIRFOIL
+0729  goe433.dat                        GOE 433 AIRFOIL
+0730  goe434.dat                        GOE 434 AIRFOIL
+0731  goe435.dat                        GOE 435 AIRFOIL
+0732  goe436.dat                        GOE 436 AIRFOIL
+0733  goe437.dat                        GOE 437 AIRFOIL
+0734  goe438.dat                        GOE 438 AIRFOIL
+0735  goe439.dat                        GOE 439 AIRFOIL
+0736  goe440.dat                        GOE 440 AIRFOIL
+0737  goe441.dat                        GOE 441 AIRFOIL
+0738  goe442.dat                        GOE 442 AIRFOIL
+0739  goe443.dat                        GOE 443 AIRFOIL
+0740  goe444.dat                        GOE 444 AIRFOIL
+0741  goe445.dat                        GOE 445 AIRFOIL
+0742  goe446.dat                        GOE 446 AIRFOIL
+0743  goe447.dat                        GOE 447 AIRFOIL
+0744  goe448.dat                        GOE 448 AIRFOIL
+0745  goe449.dat                        GOE 449 AIRFOIL
+0746  goe450.dat                        GOE 450 AIRFOIL
+0747  goe451.dat                        GOE 451 AIRFOIL
+0748  goe456.dat                        GOE 456 AIRFOIL
+0749  goe457.dat                        GOE 457 AIRFOIL
+0750  goe459.dat                        GOE 459 AIRFOIL
+0751  goe460.dat                        GOE 460 AIRFOIL
+0752  goe462.dat                        GOE 462 AIRFOIL
+0753  goe464.dat                        GOE 464 AIRFOIL
+0754  goe474.dat                        GOE 474 AIRFOIL
+0755  goe476.dat                        GOE 476 AIRFOIL
+0756  goe477.dat                        GOE 477 AIRFOIL
+0757  goe478.dat                        GOE 478 AIRFOIL
+0758  goe479.dat                        GOE 479 AIRFOIL
+0759  goe480.dat                        GOE 480 AIRFOIL
+0760  goe481.dat                        GOE 481 AIRFOIL
+0761  goe481a.dat                       GOE 481A AIRFOIL
+0762  goe482.dat                        GOE 482 AIRFOIL
+0763  goe483.dat                        GOE 483 AIRFOIL
+0764  goe484.dat                        GOE 484 AIRFOIL
+0765  goe488.dat                        GOE 488 AIRFOIL
+0766  goe490.dat                        GOE 490 AIRFOIL
+0767  goe491.dat                        GOE 491 AIRFOIL
+0768  goe492.dat                        GOE 492 AIRFOIL
+0769  goe493.dat                        GOE 493 AIRFOIL
+0770  goe494.dat                        GOE 494 AIRFOIL
+0771  goe495.dat                        GOE 495 AIRFOIL
+0772  goe496.dat                        GOE 496 AIRFOIL
+0773  goe497.dat                        GOE 497 AIRFOIL
+0774  goe498.dat                        GOE 498 AIRFOIL
+0775  goe499.dat                        GOE 499 AIRFOIL
+0776  goe500.dat                        GOE 500 AIRFOIL
+0777  goe501.dat                        GOE 501 AIRFOIL
+0778  goe502.dat                        GOE 502 AIRFOIL
+0779  goe503.dat                        GOE 503 AIRFOIL
+0780  goe504.dat                        GOE 504 AIRFOIL
+0781  goe505.dat                        GOE 505 AIRFOIL
+0782  goe506.dat                        GOE 506 AIRFOIL
+0783  goe507.dat                        GOE 507 AIRFOIL
+0784  goe508.dat                        GOE 508 AIRFOIL
+0785  goe509.dat                        GOE 509 AIRFOIL
+0786  goe510.dat                        GOE 510 AIRFOIL
+0787  goe511.dat                        GOE 511 AIRFOIL
+0788  goe512.dat                        GOE 512 AIRFOIL
+0789  goe513.dat                        GOE 513 AIRFOIL
+0790  goe514.dat                        GOE 514 AIRFOIL
+0791  goe515.dat                        GOE 515 AIRFOIL
+0792  goe517.dat                        GOE 517 AIRFOIL
+0793  goe518.dat                        GOE 518 AIRFOIL
+0794  goe522.dat                        GOE 522 AIRFOIL
+0795  goe523.dat                        GOE 523 AIRFOIL
+0796  goe525.dat                        GOE 525 AIRFOIL
+0797  goe526.dat                        GOE 526 AIRFOIL
+0798  goe527.dat                        GOE 527 AIRFOIL
+0799  goe528.dat                        GOE 528 AIRFOIL
+0800  goe529.dat                        GOE 529 AIRFOIL
+0801  goe530.dat                        GOE 530 AIRFOIL
+0802  goe531.dat                        GOE 531 AIRFOIL
+0803  goe532.dat                        GOE 532 AIRFOIL
+0804  goe533.dat                        GOE 533 AIRFOIL
+0805  goe534.dat                        GOE 534 AIRFOIL
+0806  goe535.dat                        GOE 535 AIRFOIL
+0807  goe54.dat                         GOE 54 AIRFOIL
+0808  goe546.dat                        GOE 546 AIRFOIL
+0809  goe547.dat                        GOE 547 AIRFOIL
+0810  goe548.dat                        GOE 548 AIRFOIL
+0811  goe549.dat                        GOE 549 AIRFOIL
+0812  goe55.dat                         GOE 55 AIRFOIL
+0813  goe550.dat                        GOE 550 AIRFOIL
+0814  goe553.dat                        GOE 553 AIRFOIL
+0815  goe559.dat                        GOE 559 AIRFOIL
+0816  goe561.dat                        GOE 561 AIRFOIL
+0817  goe562.dat                        GOE 562 AIRFOIL
+0818  goe563.dat                        GOE 563 AIRFOIL
+0819  goe564.dat                        GOE 564 AIRFOIL
+0820  goe565.dat                        GOE 565 AIRFOIL
+0821  goe566.dat                        GOE 566 AIRFOIL
+0822  goe567.dat                        GOE 567 AIRFOIL
+0823  goe57.dat                         GOE 57 AIRFOIL
+0824  goe570.dat                        GOE 570 AIRFOIL
+0825  goe571.dat                        GOE 571 AIRFOIL
+0826  goe572.dat                        GOE 572 AIRFOIL
+0827  goe573.dat                        GOE 573 AIRFOIL
+0828  goe574.dat                        GOE 574 AIRFOIL
+0829  goe575.dat                        GOE 575 AIRFOIL
+0830  goe584.dat                        GOE 584 AIRFOIL
+0831  goe585.dat                        GOE 585 AIRFOIL
+0832  goe587.dat                        GOE 587 AIRFOIL
+0833  goe590.dat                        GOE 590 AIRFOIL
+0834  goe591.dat                        GOE 591 AIRFOIL
+0835  goe592.dat                        GOE 592 AIRFOIL
+0836  goe593.dat                        GOE 593 AIRFOIL
+0837  goe595.dat                        GOE 595 AIRFOIL
+0838  goe596.dat                        GOE 596 AIRFOIL
+0839  goe598.dat                        GOE 598 AIRFOIL
+0840  goe599.dat                        GOE 599 AIRFOIL
+0841  goe600.dat                        GOE 600 AIRFOIL
+0842  goe601.dat                        GOE 601 AIRFOIL
+0843  goe602.dat                        GOE 602 AIRFOIL
+0844  goe602m.dat                       GOE 602 MOD. AIRFOIL
+0845  goe604.dat                        GOE 604 AIRFOIL
+0846  goe610b.dat                       GOE 610 B AIRFOIL
+0847  goe610bm.dat                      GOE 610-B MOD. AIRFOIL
+0848  goe611.dat                        GOE 611 AIRFOIL
+0849  goe612.dat                        GOE 612 AIRFOIL
+0850  goe613.dat                        GOE 613 AIRFOIL
+0851  goe614.dat                        GOE 614 AIRFOIL
+0852  goe615.dat                        GOE 615 AIRFOIL
+0853  goe617.dat                        GOE 617 AIRFOIL
+0854  goe619.dat                        GOE 619 AIRFOIL
+0855  goe620.dat                        GOE 620 AIRFOIL
+0856  goe621.dat                        GOE 621 AIRFOIL
+0857  goe622.dat                        GOE 622 AIRFOIL
+0858  goe623.dat                        GOE 623 AIRFOIL
+0859  goe624.dat                        GOE 624 AIRFOIL
+0860  goe625.dat                        GOE 625 AIRFOIL
+0861  goe626.dat                        GOE 626 AIRFOIL
+0862  goe627.dat                        GOE 627 AIRFOIL
+0863  goe628.dat                        GOE 628 AIRFOIL
+0864  goe629.dat                        GOE 629 AIRFOIL
+0865  goe63.dat                         GOE 63 AIRFOIL
+0866  goe630.dat                        GOE 630 AIRFOIL
+0867  goe632.dat                        GOE 632 AIRFOIL
+0868  goe633.dat                        GOE 633 AIRFOIL
+0869  goe645.dat                        GOE 645 AIRFOIL
+0870  goe646.dat                        GOE 646 AIRFOIL
+0871  goe647.dat                        GOE 647 AIRFOIL
+0872  goe648.dat                        GOE 648 AIRFOIL
+0873  goe650.dat                        GOE 650 AIRFOIL
+0874  goe652.dat                        GOE 652 AIRFOIL
+0875  goe654.dat                        GOE 654 AIRFOIL
+0876  goe655.dat                        GOE 655 AIRFOIL
+0877  goe670.dat                        GOE 670 AIRFOIL
+0878  goe673.dat                        GOE 673 AIRFOIL
+0879  goe675.dat                        GOE 675 AIRFOIL
+0880  goe676.dat                        GOE 676 (= M 12) AIRFOIL
+0881  goe677.dat                        GOE 677 (= M 6) AIRFOIL
+0882  goe679.dat                        GOE 679 AIRFOIL
+0883  goe681.dat                        GOE 681 AIRFOIL
+0884  goe682.dat                        GOE 682 AIRFOIL
+0885  goe683.dat                        GOE 683 AIRFOIL
+0886  goe685.dat                        GOE 685 AIRFOIL
+0887  goe692.dat                        GOE 692 AIRFOIL
+0888  goe693.dat                        GOE 693 AIRFOIL
+0889  goe701.dat                        GOE 701 AIRFOIL
+0890  goe702.dat                        GOE 702 AIRFOIL
+0891  goe703.dat                        GOE 703 AIRFOIL
+0892  goe704.dat                        GOE 704 AIRFOIL
+0893  goe711.dat                        GOE 711 AIRFOIL
+0894  goe723.dat                        GOE 723 AIRFOIL
+0895  goe735.dat                        GOE 735 AIRFOIL
+0896  goe738.dat                        GOE 738 AIRFOIL
+0897  goe741.dat                        GOE 741 AIRFOIL
+0898  goe744.dat                        GOE 744 AIRFOIL
+0899  goe746.dat                        GOE 746 AIRFOIL
+0900  goe758.dat                        GOE 758 AIRFOIL
+0901  goe765.dat                        Gottingen 765 airfoil (recovered). Thick: .144 LE radius: 0.02062 LE slope: 0.17300
+0902  goe766.dat                        GOE 766 AIRFOIL
+0903  goe767.dat                        GOE 767 AIRFOIL
+0904  goe769.dat                        GOE 769 AIRFOIL
+0905  goe770.dat                        GOE 770 AIRFOIL
+0906  goe775.dat                        GOE 775 AIRFOIL
+0907  goe776.dat                        GOE 776 AIRFOIL
+0908  goe777.dat                        GOE 777 AIRFOIL
+0909  goe780.dat                        GOE 780 AIRFOIL
+0910  goe79.dat                         GOE 79 (PFALZ 11) AIRFOIL
+0911  goe795.dat                        GOE 795 AIRFOIL
+0912  goe795sm.dat                      GOE 795 smoothed
+0913  goe796.dat                        GOE 796 AIRFOIL
+0914  goe797.dat                        GOE 797 AIRFOIL
+0915  goe798.dat                        GOE 798 AIRFOIL
+0916  goe801.dat                        GOE 801 (MVA 301) AIRFOIL
+0917  goe802.dat                        GOE 802 AIRFOIL
+0918  goe802a.dat                       GOE 802 A AIRFOIL
+0919  goe802b.dat                       GOE 802 B AIRFOIL
+0920  goe803h.dat                       GOE 803 (HACKLINGER) AIRFOIL
+0921  goe804.dat                        GOE 804 (EA 8) AIRFOIL
+0922  goe81.dat                         GOE 81 AIRFOIL
+0923  goe92.dat                         GOE 92 AIRFOIL
+0924  griffith30SymSuction.dat          Griffith 30% Suction Airfoil
+0925  gs1.dat                           SIKORSKY GS-1 AIRFOIL
+0926  gu255118.dat                      UNIVERSITY OF GLASGOW GU25-5(11)8 AIRFOIL
+0927  gw19.dat                          GW 19
+0928  gw25.dat                          GW 25
+0929  gw30.dat                          GW 30
+0930  gw31.dat                          GW 31
+0931  hh02.dat                          HUGHES HELICOPTERS HH-02 AIRFOIL
+0932  hobie.dat                         HOBIE
+0933  hobiesm.dat                       HOBIESMO1.DAT
+0934  hor04.dat                         ONERA HOR04 AIRFOIL
+0935  hor07.dat                         ONERA HOR07 AIRFOIL
+0936  hor12.dat                         ONERA HOR12 AIRFOIL
+0937  hor20.dat                         ONERA HOR20 AIRFOIL
+0938  hq010.dat                         HQ 0/10 AIRFOIL
+0939  hq07.dat                          HQ 0/7 AIRFOIL
+0940  hq09.dat                          HQ 0/9 AIRFOIL
+0941  hq1010.dat                        HQ 1.0/10 AIRFOIL
+0942  hq1012.dat                        HQ 1.0/12 AIRFOIL
+0943  hq108.dat                         HQ 1.0/8 AIRFOIL
+0944  hq109.dat                         HQ 1.0/9 AIRFOIL
+0945  hq1510.dat                        HQ 1.5/10 AIRFOIL
+0946  hq158.dat                         HQ 1.5/8 AIRFOIL
+0947  hq1585.dat                        HQ 1.5/8.5 AIRFOIL
+0948  hq159.dat                         HQ 1.5/9 AIRFOIL
+0949  hq159b.dat                        HQ 1.5/9 B AIRFOIL
+0950  hq17.dat                          HORSTMANN AND QUAST HQ-17/14.38 AIRFOIL (MEASURED)
+0951  hq2010.dat                        HQ 2.0/10 AIRFOIL
+0952  hq2012.dat                        HQ 2.0/12 AIRFOIL
+0953  hq208.dat                         HQ 2.0/8 AIRFOIL
+0954  hq209.dat                         HQ 2.0/9 AIRFOIL
+0955  hq2090sm.dat                      HQ-2.0/9  9.0%   smoothed
+0956  hq2195.dat                        HQ 2.1/9.5 AIRFOIL
+0957  hq2510.dat                        HQ 2.5/10 AIRFOIL
+0958  hq2511.dat                        HQ 2.5/11 AIRFOIL
+0959  hq2512.dat                        HQ 2.5/12 AIRFOIL
+0960  hq258.dat                         HQ 2.5/8 AIRFOIL
+0961  hq259.dat                         HQ 2.5/9 AIRFOIL
+0962  hq2590sm.dat                      HQ 2.5/9.0 smoothed by Eppler
+0963  hq259b.dat                        HQ 2.5/9 B AIRFOIL
+0964  hq300gd2.dat                      HORSTMANN AND QUAST HQ-300 GD(MOD 2) AIRFOIL
+0965  hq3010.dat                        HQ 3.0/10 AIRFOIL
+0966  hq3011.dat                        HQ 3.0/11 AIRFOIL
+0967  hq3012.dat                        HQ 3.0/12 AIRFOIL
+0968  hq3013.dat                        HQ 3.0/13 AIRFOIL
+0969  hq3014.dat                        HQ 3.0/14 AIRFOIL
+0970  hq3015.dat                        HQ 3.0/15 AIRFOIL
+0971  hq308.dat                         HQ 3.0/8 AIRFOIL
+0972  hq309.dat                         HQ 3.0/9 AIRFOIL
+0973  hq3510.dat                        HQ 3.5/10 AIRFOIL
+0974  hq3512.dat                        HQ 3.5/12 AIRFOIL
+0975  hq3513.dat                        HQ 3.5/13 AIRFOIL
+0976  hq3514.dat                        HQ 3.5/14 AIRFOIL
+0977  hq3518.dat                        HQ 3.5/18 AIRFOIL
+0978  hq358.dat                         HQ 3.5/8 AIRFOIL
+0979  hq359.dat                         HQ 3.5/9 AIRFOIL
+0980  hs1404.dat                        HAM-STD HS1-404 AIRFOIL
+0981  hs1430.dat                        HAM-STD HS1-430 AIRFOIL
+0982  hs1606.dat                        HAM-STD HS1-606 AIRFOIL
+0983  hs1620.dat                        HAM-STD HS1-620 AIRFOIL
+0984  hs1708.dat                        HAM-STD HS1-708 AIRFOIL
+0985  hs1712.dat                        HAM-STD HS1-712 AIRFOIL
+0986  hsnlf213.dat                      HSNLF(1)-0213 AIRFOIL
+0987  ht05.dat                          HT05
+0988  ht08.dat                          HT08
+0989  ht12.dat                          HT12
+0990  ht13.dat                          HT 13
+0991  ht14.dat                          HT 14
+0992  ht21.dat                          HT21
+0993  ht22.dat                          HT22
+0994  ht23.dat                          HT23
+0995  ht33.dat                          HT33
+0996  ht34.dat                          HT34
+0997  ht35.dat                          HT35
+0998  isa571.dat                        I.S.A. 571
+0999  isa960.dat                        I.S.A. 960
+1000  isa961.dat                        I.S.A. 961
+1001  isa962.dat                        I.S.A. 962
+1002  j5012.dat                         J5012   12%
+1003  jn153.dat                         JN-153 AIRFOIL
+1004  joukowsk.dat                      12% JOUKOWSKI AIRFOIL
+1005  jx-gs-04.dat                      JX-GS-04
+1006  jx-gs-06.dat                      JX-GS-06
+1007  jx-gs-10.dat                      JX-GS-10
+1008  jx-gs-15.dat                      JX-GS-15
+1009  k1.dat                            NYU/GRUMMAN K-1 AIRFOIL
+1010  k2.dat                            GRUMMAN K-2 AIRFOIL
+1011  k3.dat                            GRUMMAN K-3 AIRFOIL
+1012  k3311.dat                         K3311  (original)
+1013  k3311sm.dat                       K3311 (smoothed)
+1014  kc135a.dat                        KC-135 BL52.44 AIRFOIL
+1015  kc135b.dat                        KC-135 BL124.32 AIRFOIL
+1016  kc135c.dat                        KC-135 BL200.76 AIRFOIL
+1017  kc135d.dat                        KC-135 BL351.6 AIRFOIL
+1018  kc135winglet.dat                  KC-135 Winglet (supercritical Whitcomb)
+1019  kenmar.dat                        KENNEDY AND MARSDEN AIRFOIL
+1020  l1003.dat                         LIEBECK L1003 AIRFOIL
+1021  l188root.dat                      LOCKHEED L-188 ROOT AIRFOIL
+1022  l188tip.dat                       LOCKHEED L-188 TIP AIRFOIL
+1023  l7769.dat                         LISSAMAN 7769 AIRFOIL
+1024  la203a.dat                        DOUGLAS LA203A AIRFOIL
+1025  la2573a.dat                       LA2573A
+1026  la5055.dat                        LIEBECK LA5055 AIRFOIL
+1027  lds2.dat                          LDS-2 AIRFOIL
+1028  lg10sc.dat                        LOCKHEED-GEORGIA SUPERCRITICAL AIRFOIL
+1029  lnv109a.dat                       LNV109A
+1030  lrn1007.dat                       lrn1007
+1031  lrn1015.dat                       NASA LRN 1015 (NASA TM 102840)
+1032  ls013.dat                         NASA/LANGLEY LS(1)-0013 AIRFOIL
+1033  ls413.dat                         NASA/LANGLEY LS(1)-0413 (GA(W)-2) AIRFOIL
+1034  ls413mod.dat                      NASA/LANGLEY LS(1)-0413MOD AIRFOIL
+1035  ls417.dat                         NASA/LANGLEY LS(1)-0417 (GA(W)-1) AIRFOIL
+1036  ls417mod.dat                      NASA/LANGLEY LS(1)-0417MOD AIRFOIL
+1037  ls421.dat                         NASA/LANGLEY LS(1)-0421 AIRFOIL
+1038  ls421mod.dat                      NASA/LANGLEY LS(1)-0421MOD AIRFOIL
+1039  lwk79100.dat                      LWK 79-100
+1040  lwk80080.dat                      LWK 80-080
+1041  lwk80100.dat                      LWK 80-100
+1042  lwk80120k25.dat                   LWK 80-120/K25
+1043  lwk80150k25.dat                   LWK 80-150/K25
+1044  m1.dat                            NACA-M1 AIRFOIL
+1045  m10.dat                           NACA M10 AIRFOIL
+1046  m11.dat                           NACA M11 AIRFOIL
+1047  m12.dat                           NACA M12 AIRFOIL
+1048  m13.dat                           NACA M13 AIRFOIL
+1049  m14.dat                           NACA M14 AIRFOIL
+1050  m15.dat                           NACA M15 AIRFOIL
+1051  m16.dat                           NACA M16 AIRFOIL
+1052  m17.dat                           NACA M17 AIRFOIL
+1053  m18.dat                           NACA M18 AIRFOIL
+1054  m19.dat                           NACA M19 AIRFOIL
+1055  m2.dat                            NACA M2 AIRFOIL
+1056  m20.dat                           NACA M20 AIRFOIL
+1057  m21.dat                           NACA M21 AIRFOIL
+1058  m22.dat                           NACA M22 AIRFOIL
+1059  m23.dat                           NACA M23 AIRFOIL
+1060  m24.dat                           NACA M24 AIRFOIL
+1061  m25.dat                           NACA M25 AIRFOIL
+1062  m26.dat                           NACA M26 AIRFOIL
+1063  m27.dat                           NACA M27 AIRFOIL
+1064  m3.dat                            NACA M3 AIRFOIL
+1065  m4.dat                            NACA M4 AIRFOIL
+1066  m5.dat                            NACA M5 AIRFOIL
+1067  m6.dat                            NACA M6 AIRFOIL
+1068  m665.dat                          M6 (65%)
+1069  m685.dat                          M6 (85%)
+1070  m7.dat                            NACA M7 AIRFOIL
+1071  ma409.dat                         MA409 (original)
+1072  ma409sm.dat                       MA409 (smoothed)
+1073  marsden.dat                       Marsden
+1074  marske1.dat                       MARSKE XM-1D AIRFOIL (F14-3.0)
+1075  marske2.dat                       MARSKE PIONEER IA AIRFOIL (NACA 23112/43012A HYBRID)
+1076  marske3.dat                       MARSKE PIONEER IID ROOT AIRFOIL (NACA 431012A/24112 HYBRID)
+1077  marske4.dat                       MARSKE PIONEER IID TIP AIRFOIL (NACA 431012A*.833 HYBRID)
+1078  marske5.dat                       MARSKE MONARCH AIRFOIL (NACA 43012A)
+1079  marske7.dat                       RONCZ LOW DRAG FLYING WING AIRFOIL
+1080  mb253515sm.dat                    MB253515 15.0% smoothed
+1081  mh102.dat                         MH 102  16.99%
+1082  mh104.dat                         MH 104  15.28%
+1083  mh106.dat                         MH 106  13.07%
+1084  mh108.dat                         MH 108  11.98%
+1085  mh110.dat                         MH 110  10.01%
+1086  mh112.dat                         MH 112  16.2%
+1087  mh113.dat                         MH 113  14.62%
+1088  mh114.dat                         MH 114  13.02%
+1089  mh115.dat                         MH 115  11.06%
+1090  mh116.dat                         MH 116  9.84%
+1091  mh117.dat                         MH 117  9.8%
+1092  mh120.dat                         MH 120  8.0%
+1093  mh121.dat                         MH 121  8.76%
+1094  mh122.dat                         MH 122  9.32%
+1095  mh126.dat                         MH 126 25.0%
+1096  mh150.dat                         MH 150  23.89%
+1097  mh18.dat                          MH 18  11.16%
+1098  mh20.dat                          MH 20  9.01%
+1099  mh200.dat                         MH 200  12.97%
+1100  mh201.dat                         MH 201  13.08%
+1101  mh22.dat                          MH 22  7.2%
+1102  mh23.dat                          MH 23  8%
+1103  mh24.dat                          MH 24  9.01%
+1104  mh25.dat                          MH 25  9.98%
+1105  mh26.dat                          MH 26  10.99%
+1106  mh27.dat                          MH 27  11.99%
+1107  mh30.dat                          MH 30  7.84%
+1108  mh32.dat                          MH 32  8.7%
+1109  mh33.dat                          MH 33
+1110  mh38.dat                          MH 38  9.68%
+1111  mh42.dat                          MH 42  8.94%
+1112  mh43.dat                          MH 43  8.5%
+1113  mh44.dat                          MH 44  9.66%
+1114  mh45.dat                          MH 45  9.85%
+1115  mh46.dat                          MH 46  11.39%
+1116  mh60.dat                          MH 60  10.08%
+1117  mh61.dat                          MH 61  10.26%
+1118  mh62.dat                          MH 62  9.3%
+1119  mh64.dat                          MH 64  8.59%
+1120  mh70.dat                          MH 70  11.08%
+1121  mh78.dat                          MH 78  14.47%
+1122  mh80.dat                          MH 80  12.72%
+1123  mh81.dat                          MH 81  13%
+1124  mh82.dat                          MH 82  13.31%
+1125  mh83.dat                          MH 83  13.29%
+1126  mh84.dat                          MH 84  13.69%
+1127  mh91.dat                          MH 91  14.98%
+1128  mh92.dat                          MH 92  15.49%
+1129  mh93.dat                          MH 93  15.98%
+1130  mh94.dat                          MH 94  16.03%
+1131  mh95.dat                          MH 95  15.86%
+1132  miley.dat                         MILEY M06-13-128
+1133  mrc-16.dat                        MRC-16
+1134  mrc-20.dat                        MRC-20
+1135  mrc12.dat                         MRC12
+1136  mrc15.dat                         MRC15
+1137  mrc16-85.dat                      MRC16-85
+1138  mrc16-95.dat                      MRC16-95
+1139  mrc20-700.dat                     MRC20-700
+1140  mrc20-846.dat                     MRC20-846
+1141  ms313.dat                         NASA/LANGLEY MS(1)-0313 AIRFOIL
+1142  ms317.dat                         NASA/LANGLEY MS(1)-0317 AIRFOIL
+1143  mue139.dat                        MUE 139
+1144  n0009sm.dat                       NACA-0009 9.0% smoothed
+1145  n0011sc.dat                       NACA/LANGLEY SYMMETRICAL, SUPERCRITICAL AIRFOIL
+1146  n0012.dat                         NACA 0012 AIRFOILS
+1147  n10.dat                           N-10
+1148  n11.dat                           N-11
+1149  n11h9.dat                         NACA 11-H-09 AIRFOIL
+1150  n12.dat                           N-12
+1151  n13.dat                           N-13
+1152  n14.dat                           N-14
+1153  n1h15.dat                         NACA 1-H-15 AIRFOIL
+1154  n22.dat                           N-22
+1155  n24.dat                           N-24
+1156  n2414.dat                         NACA 2414
+1157  n2415.dat                         NACA 2415
+1158  n2h15.dat                         NACA 2-H-15 AIRFOIL
+1159  n5h10.dat                         NACA 5-H-10 AIRFOIL
+1160  n5h15.dat                         NACA 5-H-15 AIRFOIL
+1161  n5h20.dat                         NACA 5-H-20 AIRFOIL
+1162  n63010a.dat                       NACA 63A010 AIRFOIL
+1163  n63012a.dat                       NACA 63012A AIRFOIL
+1164  n63015a.dat                       NACA 63-015A AIRFOIL
+1165  n63210.dat                        NACA 63-210 AIRFOIL
+1166  n63212.dat                        NACA 63-212 AIRFOIL
+1167  n63215.dat                        NACA 63-215 AIRFOIL
+1168  n63215b.dat                       NACA 63(2)-215 MOD B
+1169  n63412.dat                        NACA 63-412 AIRFOIL
+1170  n63415.dat                        NACA 63-415 AIRFOIL
+1171  n64008a.dat                       NACA 64-008A AIRFOIL
+1172  n64012.dat                        NASA/LANGLEY 64-012 AIRFOIL
+1173  n64012a.dat                       NACA 64-012A AIRFOIL
+1174  n64015.dat                        NACA 642-015 AIRFOIL
+1175  n64015a.dat                       NACA 642-015A AIRFOIL
+1176  n6409.dat                         NACA6409 9%
+1177  n64108.dat                        NACA 64-108 AIRFOIL
+1178  n64110.dat                        NACA 64-110 AIRFOIL
+1179  n64212.dat                        NACA 64(1)-212
+1180  n64212ma.dat                      NACA 64(1)-212 MOD A
+1181  n64212mb.dat                      NACA 64(1)-212 MOD B
+1182  n64215.dat                        NACA 64-215 AIRFOIL
+1183  n642415.dat                       NACA 64(2)-415 [NACA 6a series from Theory of Wing Sections]
+1184  n6h10.dat                         NACA 6-H-10 AIRFOIL
+1185  n6h15.dat                         NACA 6-H-15 AIRFOIL
+1186  n6h20.dat                         NACA 6-H-20 AIRFOIL
+1187  n8h12.dat                         NACA 8-H-12 AIRFOIL
+1188  n9.dat                            N-9
+1189  naca0006.dat                      NACA 0006
+1190  naca0008.dat                      NACA 0008
+1191  naca000834.dat                    NACA 0008-34
+1192  naca0010.dat                      NACA 0010
+1193  naca001034.dat                    NACA 0010-34
+1194  naca001034a08cli0.2.dat           NACA 0010-34 a=0.8 c(li)=0.2
+1195  naca001035.dat                    NACA 0010-35
+1196  naca001064.dat                    NACA 0010-64
+1197  naca001065.dat                    NACA 0010-65
+1198  naca001066.dat                    NACA 0010-66
+1199  naca001234.dat                    NACA 0012-34
+1200  naca001264.dat                    NACA 0012-64
+1201  naca001264a08cli0.2.dat           NACA 0012-64 a=0.8 c(li)=0.2
+1202  naca0015.dat                      NACA 0015
+1203  naca0018.dat                      NACA 0018
+1204  naca0021.dat                      NACA 0021
+1205  naca0024.dat                      NACA 0024
+1206  naca1408.dat                      NACA 1408
+1207  naca1410.dat                      NACA 1410
+1208  naca1412.dat                      NACA 1412
+1209  naca16006.dat                     NACA 16-006
+1210  naca16009.dat                     NACA 16009
+1211  naca16012.dat                     NACA 16-012
+1212  naca16015.dat                     NACA 16-015
+1213  naca16018.dat                     NACA 16-018
+1214  naca16021.dat                     NACA 16-021
+1215  naca23012.dat                     NACA 23012  12%
+1216  naca23015.dat                     NACA 23015
+1217  naca23018.dat                     NACA 23018
+1218  naca23021.dat                     NACA 23021
+1219  naca23024.dat                     NACA 23024
+1220  naca2408.dat                      NACA 2408
+1221  naca2410.dat                      NACA 2410
+1222  naca2411.dat                      NACA 2.5411
+1223  naca2412.dat                      NACA 2412
+1224  naca2415.dat                      NACA 2415
+1225  naca2418.dat                      NACA 2418
+1226  naca2421.dat                      NACA 2421
+1227  naca2424.dat                      NACA 2424
+1228  naca4412.dat                      NACA 4412
+1229  naca4415.dat                      NACA 4415
+1230  naca4418.dat                      NACA 4418
+1231  naca4421.dat                      NACA 4421
+1232  naca4424.dat                      NACA 4424
+1233  naca63206.dat                     NACA 63-206
+1234  naca63209.dat                     NACA 63-209
+1235  naca632615.dat                    NACA 63(2)-615
+1236  naca632a015.dat                   NACA 63(2)A-015
+1237  naca633018.dat                    NACA 63(3)-018
+1238  naca633218.dat                    NACA 63(3)-218
+1239  naca633418.dat                    NACA 63,3-418
+1240  naca633618.dat                    NACA 63(3)-618
+1241  naca634221.dat                    NACA 63(4)-221
+1242  naca634421.dat                    NACA 63(4)-421
+1243  naca63a210.dat                    NACA 63A210
+1244  naca641112.dat                    NACA 64(1)-112
+1245  naca6412.dat                      NACA 6412
+1246  naca64206.dat                     NACA 64-206
+1247  naca64208.dat                     NACA 64-208
+1248  naca64209.dat                     NACA 64-209
+1249  naca64210.dat                     NACA 64-210
+1250  naca642215.dat                    NACA 64(2)-215
+1251  naca642415.dat                    NACA 64(2)-415
+1252  naca643218.dat                    NACA 64(3)-218
+1253  naca643418.dat                    NACA 64(3)-418
+1254  naca643618.dat                    NACA 64(3)-618
+1255  naca644221.dat                    NACA 64(4)-221
+1256  naca644421.dat                    NACA 64(4)-421
+1257  naca64a010.dat                    NACA 64A-010 10.0%
+1258  naca64a210.dat                    NACA 64A210
+1259  naca64a410.dat                    NACA 64A410
+1260  naca651212.dat                    NACA 65(1)-212
+1261  naca651212a06.dat                 NACA 65(1)-212 a=0.6
+1262  naca651412.dat                    NACA 65(1)-412
+1263  naca65206.dat                     NACA 65-206
+1264  naca65209.dat                     NACA 65-209
+1265  naca65210.dat                     NACA 65-210
+1266  naca652215.dat                    NACA 65(2)-215
+1267  naca652415.dat                    NACA 65(2)-415
+1268  naca652415a05.dat                 NACA 65(2)-415 a=0.5
+1269  naca653218.dat                    NACA 65(3)-218
+1270  naca653618.dat                    NACA 65(3)-618
+1271  naca65410.dat                     NACA 65-410
+1272  naca654221.dat                    NACA 65(4)-221
+1273  naca654421.dat                    NACA 65(4)-421
+1274  naca654421a05.dat                 NACA 65(4)-421 a=0.5
+1275  naca66-018.dat                    NACA 66-018
+1276  naca661212.dat                    NACA 66(1)-212
+1277  naca66206.dat                     NACA 66-206
+1278  naca66209.dat                     NACA 66-209
+1279  naca66210.dat                     NACA 66-210
+1280  naca662215.dat                    NACA 66(2)-215
+1281  naca662415.dat                    NACA 66(2)-415
+1282  naca663218.dat                    NACA 66(3)-218
+1283  naca663418.dat                    NACA 66(3)-418
+1284  naca664221.dat                    NACA 66(4)-221
+1285  naca671215.dat                    NACA 67,1-215
+1286  naca747a315.dat                   NACA 747A315
+1287  naca747a415.dat                   NACA 747A415
+1288  nacacyh.dat                       NACA CYH
+1289  nacam12.dat                       NACA M12
+1290  nacam18.dat                       NACA M18
+1291  nacam2.dat                        NACA M2
+1292  nacam3.dat                        NACA M3
+1293  nacam6.dat                        NACA M6
+1294  nasasc2-0714.dat                  SC(2)-0714 | Supercritical airfoil (coordinates from Raymer w/ one correction). These coordinates are actual model coordinates, not coordinates as designed. Ref: NASA TP-2890
+1295  ncambre.dat                       ONERA NACA CAMBRE AIRFOIL
+1296  nl722343.dat                      NLR-7223-43 AIRFOIL
+1297  nl722362.dat                      NLR-7223-62 AIRFOIL
+1298  nlf0115.dat                       NASA NLF(1)-0115
+1299  nlf0215f.dat                      NASA/LANGLEY NLF(1)-0215F AIRFOIL
+1300  nlf1015.dat                       NASA NLF(1)-1015
+1301  nlf414f.dat                       NASA/LANGLEY NLF 0414F AIRFOIL
+1302  nlf415.dat                        NASA/DLR NLF(2)-0415
+1303  nlf416.dat                        NASA/LANGLEY NLF(1)-0416 AIRFOIL
+1304  nlr1t.dat                         NLR-1T AIRFOIL
+1305  nlr7301.dat                       NLR-7301 AIRFOIL
+1306  nn7mk20.dat                       NN7 MK20
+1307  npl9510.dat                       NPL 9510 AIRFOIL
+1308  npl9615.dat                       NPL 9615 AIRFOIL
+1309  npl9626.dat                       NPL 9626 AIRFOIL
+1310  npl9627.dat                       NPL 9627 AIRFOIL
+1311  npl9660.dat                       NPL 9660 AIRFOIL
+1312  nplx.dat                          NPL AIRFOIL FROM ARC CP 1372
+1313  oa206.dat                         ONERA OA206 AIRFOIL
+1314  oa209.dat                         ONERA OA209 AIRFOIL
+1315  oa212.dat                         ONERA OA212 AIRFOIL
+1316  oa213.dat                         ONERA OA213 AIRFOIL
+1317  oaf095.dat                        OAF095 AIRFOIL
+1318  oaf102.dat                        OAF102 AIRFOIL
+1319  oaf117.dat                        OAF117 AIRFOIL
+1320  oaf128.dat                        OAF128 AIRFOIL
+1321  oaf139.dat                        OAF139 AIRFOIL
+1322  p51dtip.dat                       P-51D TIP (BL215) AIRFOIL
+1323  p51hroot.dat                      NACA 66,2-(1.8)15.5 A=.6 P-51 ROOT AIRFOIL
+1324  p51htip.dat                       NACA 66,2-(1.8)12 A=.6 P-51 TIP AIRFOIL
+1325  pfcm.dat                          PROPFAN CRUISE MISSILE WING AIRFOIL
+1326  pmc19sm.dat                       PMC19 Smoothed
+1327  psu-90-125wl.dat                  PSU-90-125WL
+1328  psu94097.dat                      PSU 94-097 (AIAA 2001-2478)
+1329  pt40.dat                          PT40
+1330  r1046.dat                         RONCZ 1046 VOYAGER CANARD AIRFOIL
+1331  r1080.dat                         RONCZ 1080 VOYAGER INNER AFT WING AIRFOIL
+1332  r1082.dat                         RONCZ 1082 VOYAGER ROOT OUTER AFT WING AIRFOIL
+1333  r1082t.dat                        RONCZ 1082T VOYAGER TIP OUTER AFT WING AIRFOIL
+1334  r1145ms.dat                       RONCZ R1145MS AIRFOIL
+1335  r1145msf.dat                      RONCZ R1145MS FLAP ELEMENT (LONG EZ PIVOT X=0.6874131, Z=-.0138996)
+1336  r1145msm.dat                      RONCZ R1145MS MAIN ELEMENT
+1337  r140.dat                          R140 (original)
+1338  r140sm.dat                        R140  12.04% (smoothed)
+1339  rae100.dat                        RAE 100 AIRFOIL
+1340  rae101.dat                        RAE 101 AIRFOIL
+1341  rae102.dat                        RAE 102 AIRFOIL
+1342  rae103.dat                        RAE 103 AIRFOIL
+1343  rae104.dat                        RAE 104 AIRFOIL
+1344  rae2822.dat                       RAE 2822 AIRFOIL
+1345  rae5212.dat                       RAE(NPL) 5212 AIRFOIL
+1346  rae5213.dat                       RAE(NPL) 5213 AIRFOIL
+1347  rae5214.dat                       RAE 5214 AIRFOIL
+1348  rae5215.dat                       RAE 5215 AIRFOIL
+1349  rae69ck.dat                       RAE6-9CK AIRFOIL
+1350  raf15.dat                         RAF 15 AIRFOIL
+1351  raf19.dat                         RAF 19 AIRFOIL
+1352  raf25.dat                         RAF 25 AIRFOIL
+1353  raf26.dat                         RAF 26 AIRFOIL
+1354  raf27.dat                         RAF 27 AIRFOIL
+1355  raf28.dat                         RAF 28 AIRFOIL
+1356  raf30.dat                         RAF 30 AIRFOIL
+1357  raf30md.dat                       RAF 30 MOD AIRFOIL
+1358  raf31.dat                         RAF 31 AIRFOIL
+1359  raf32.dat                         RAF 32 AIRFOIL
+1360  raf32md.dat                       RAF 32 MOD AIRFOIL
+1361  raf33.dat                         RAF 33 AIRFOIL
+1362  raf34.dat                         RAF 34 AIRFOIL
+1363  raf38.dat                         RAF 38 AIRFOIL
+1364  raf48.dat                         RAF-48 AIRFOIL
+1365  raf6.dat                          RAF 6 AIRFOIL
+1366  raf69.dat                         RAF 69 AIRFOIL
+1367  raf89.dat                         RAF 89 AIRFOIL
+1368  rc0864c.dat                       NASA/LANGLEY RC08-64C AIRFOIL
+1369  rc08b3.dat                        NASA/LANGLEY RC-08(B)3 AIRFOIL
+1370  rc08n1.dat                        NASA/LANGLEY RC-08(N)1 AIRFOIL
+1371  rc1064c.dat                       NASA/LANGLEY RC10-64C AIRFOIL
+1372  rc10b3.dat                        NASA/LANGLEY RC-10(B)3 AIRFOIL
+1373  rc10n1.dat                        NASA/LANGLEY RC-10(N)1 AIRFOIL
+1374  rc1264c.dat                       NASA/LANGLEY RC12-64C AIRFOIL
+1375  rc12b3.dat                        NASA/LANGLEY RC-12(B)3 AIRFOIL
+1376  rc12n1.dat                        NASA/LANGLEY RC-12(N)1 AIRFOIL
+1377  rc410.dat                         NASA RC(4)-10 AIRFOIL
+1378  rc510.dat                         NASA RC(5)-10 AIRFOIL
+1379  rcsc2.dat                         NASA/LANGLEY RC-SC2 AIRFOIL
+1380  rg12.dat                          RG-12
+1381  rg12a.dat                         AIRFOIL PROFILE12A 9.00%
+1382  rg12a189.dat                      RG 12A-1.8/9.0 AIRFOIL
+1383  rg14.dat                          RG 14 AIRFOIL
+1384  rg1410.dat                        RG 14 10% AIRFOIL
+1385  rg149.dat                         RG 14 9% AIRFOIL
+1386  rg1495.dat                        RG 14 9.5% AIRFOIL
+1387  rg14a147.dat                      RG 14A-1.4/7.0 AIRFOIL
+1388  rg15.dat                          RG-15 8.9%
+1389  rg15a111.dat                      RG 15A-1.8/11.0 AIRFOIL
+1390  rg15a213.dat                      RG 15A 2.5/13.0 AIRFOIL
+1391  rg8.dat                           RG 8 AIRFOIL
+1392  rhodesg30.dat                     Rhode St. Genese 30
+1393  rhodesg32.dat                     Rhode St. Genese 32
+1394  rhodesg34.dat                     Rhode St. Genese 34
+1395  rhodesg36.dat                     Rhode St. Genese 36
+1396  s1010.dat                         S1010 HPV airfoil
+1397  s1012.dat                         S1012
+1398  s1014.dat                         S1014
+1399  s1016.dat                         S1016
+1400  s1020.dat                         S1020 Ornithopter airfoil
+1401  s102b.dat                         SOMERS S102 AIRFOIL (BLUNT)
+1402  s102s.dat                         SOMERS S102 AIRFOIL (SHARP)
+1403  s1046.dat                         S1046 17% (Danny Howell)
+1404  s1048.dat                         S1048 14% (Danny Howell)
+1405  s1091.dat                         S1091
+1406  s1210.dat                         S1210 12%
+1407  s1221.dat                         S1221  w/o flap
+1408  s1223.dat                         S1223
+1409  s1223rtl.dat                      S1223 RTL
+1410  s2027.dat                         S2027
+1411  s2046.dat                         S2046
+1412  s2048.dat                         S2048
+1413  s2050.dat                         S2050 8.93%
+1414  s2055.dat                         S2055
+1415  s2060.dat                         S2060 8%
+1416  s2062.dat                         S2062 8%
+1417  s2091.dat                         S2091-101-83
+1418  s3.dat                            REPUBLIC S-3 AIRFOIL
+1419  s3002.dat                         SELIG 3002-099-83
+1420  s3010.dat                         S3010-103-84
+1421  s3014.dat                         S3014-095-85
+1422  s3016.dat                         S3016-095-87
+1423  s3021.dat                         S3021-095-84
+1424  s3024.dat                         S3024 9.84%
+1425  s3025.dat                         S3025 9.38%
+1426  s4022.dat                         S4022
+1427  s4053.dat                         S4053
+1428  s4061.dat                         S4061-096-84
+1429  s4062.dat                         S4062-095-87
+1430  s4083.dat                         S4083 (8%)
+1431  s4094.dat                         S4094 (root airfoil designed for and used on the E-flite UMX ASK-21 scale RC sailplane)
+1432  s4095.dat                         S4095 (designed for the E-flite UMX ASK-21 scale RC sailplane)
+1433  s4096.dat                         S4096 (designed for the E-flite UMX ASK-21 scale RC sailplane)
+1434  s4110.dat                         S4110
+1435  s4158.dat                         S4158
+1436  s4180.dat                         S4180-098-84
+1437  s4233.dat                         S4233-136-84
+1438  s4310.dat                         S4310
+1439  s4320.dat                         S4320
+1440  s5010.dat                         S5010
+1441  s5020.dat                         S5020
+1442  s6061.dat                         S6061 9%
+1443  s6062.dat                         S6062 8%
+1444  s6063.dat                         S6063 7.05%
+1445  s7012.dat                         S7012 8.75%
+1446  s7055.dat                         S7055 (10.5%) Flat-Bottomed
+1447  s7075.dat                         S7075 (9%)
+1448  s8023.dat                         S8023 (7.6%)
+1449  s8025.dat                         S8025 (8%)
+1450  s8035.dat                         S8035 for RC aerobatic  14% thick
+1451  s8036.dat                         S8036 (16%)
+1452  s8037.dat                         S8037 (16%)
+1453  s8038.dat                         S8038 (13%)
+1454  s8052.dat                         S8052 (11.88%)
+1455  s8055.dat                         S8055 (12%)
+1456  s8064.dat                         S8064
+1457  s8065.dat                         S8065 (11% version of S8064)
+1458  s8066.dat                         S8066 (10% version of S8065 w/ lower surface aerodynamically similar)
+1459  s9000.dat                         S9000 (9%)
+1460  s9026.dat                         S9026 (9.5%)
+1461  s9027.dat                         S9027 (8%)
+1462  s9032.dat                         S9032 (9%)
+1463  s9033.dat                         S9033 (7.5%)
+1464  s9037.dat                         S9037 (9%)
+1465  s9104.dat                         S9104
+1466  s9104BTE.dat                      S9104BTE
+1467  sa7024.dat                        SA7024
+1468  sa7025.dat                        SA7025
+1469  sa7026.dat                        SA7026
+1470  sa7035.dat                        SA7035
+1471  sa7036.dat                        SA7036
+1472  sa7038.dat                        SA7038
+1473  saratov.dat                       SARATOV AIRFOIL
+1474  sc1012r8.dat                      SIKORSKY SC1012R8 AIRFOIL
+1475  sc1094r8.dat                      SIKORSKY SC1094 R8 AIRFOIL
+1476  sc1095.dat                        SIKORSKY SC1095 AIRFOIL
+1477  sc1095r8.dat                      SIKORSKY SC1095R8 AIRFOIL
+1478  sc20010.dat                       NASA SC(2)-0010 AIRFOIL
+1479  sc20012.dat                       NASA SC(2)-0012 AIRFOIL
+1480  sc20402.dat                       NASA SC(2)-0402 AIRFOIL
+1481  sc20403.dat                       NASA SC(2)-0403 AIRFOIL
+1482  sc20404.dat                       NASA SC(2)-0404 AIRFOIL
+1483  sc20406.dat                       NASA SC(2)-0406 AIRFOIL
+1484  sc20410.dat                       NASA SC(2)-0410 AIRFOIL
+1485  sc20412.dat                       NASA SC(2)-0412 AIRFOIL
+1486  sc20414.dat                       NASA SC(2)-0414 AIRFOIL
+1487  sc20503.dat                       NASA SC(2)-0503 AIRFOIL
+1488  sc20518.dat                       NASA SC(2)-0518 AIRFOIL
+1489  sc20606.dat                       NASA SC(2)-0606 AIRFOIL
+1490  sc20610.dat                       NASA SC(2)-0610 AIRFOIL
+1491  sc20612.dat                       NASA SC(2)-0612 AIRFOIL
+1492  sc20614.dat                       NASA SC(2)-0614 AIRFOIL
+1493  sc20706.dat                       NASA SC(2)-0706 AIRFOIL
+1494  sc20710.dat                       NASA SC(2)-0710 AIRFOIL
+1495  sc20712.dat                       NASA SC(2)-0712 AIRFOIL
+1496  sc20714.dat                       NASA SC(2)-0714 AIRFOIL
+1497  sc21006.dat                       NASA SC(2)-1006 AIRFOIL
+1498  sc21010.dat                       NASA SC(2)-1010 AIRFOIL
+1499  sc2110.dat                        SIKORSKY SC2110 AIRFOIL
+1500  sd2030.dat                        SD2030-086-88
+1501  sd2083.dat                        SD2083 (9.0%)
+1502  sd5060.dat                        SD5060 (9.5%)
+1503  sd6060.dat                        SD6060-104-88
+1504  sd6080.dat                        SD6080 (9.2%)
+1505  sd7003.dat                        SD7003-085-88
+1506  sd7032.dat                        SD7032-099-88
+1507  sd7034.dat                        SD7034
+1508  sd7037.dat                        SD7037-092-88
+1509  sd7043.dat                        SD7043 (9.1%)
+1510  sd7062.dat                        SD7062 (14%)
+1511  sd7080.dat                        SD7080 (9.2%)
+1512  sd7084.dat                        SD7084 (9.6%)
+1513  sd7090.dat                        SD7090 (10%)
+1514  sd8000.dat                        SD8000-089-88
+1515  sd8020.dat                        SD8020-010-88
+1516  sd8040.dat                        SD8040 (10%)
+1517  sg6040.dat                        SG6040
+1518  sg6041.dat                        SG6041
+1519  sg6043.dat                        SG6043
+1520  sg6050.dat                        SG6050
+1521  sg6051.dat                        SG6051
+1522  sm701.dat                         SM701
+1523  sokolov.dat                       SOKOLOV AIRFOIL
+1524  spicasm.dat                       SPICA  11.73% smoothed
+1525  ssca07.dat                        SIKORSKY SSC-A07 AIRFOIL
+1526  ssca09.dat                        SIKORSKY SSC-A09  AIRFOIL
+1527  stcyr171.dat                      St. CYR 171 (Royer)
+1528  stcyr172.dat                      St. CYR 172 (Royer)
+1529  stcyr234.dat                      St. CYR 234 (Bartel 17-IC)
+1530  ste87151.dat                      EPPLER STE 871-514 AIRFOIL
+1531  ste87391.dat                      EPPLER STE 87(-3)-914 AIRFOIL
+1532  stf86361.dat                      EPPLER STF 863-615 AIRFOIL
+1533  strand.dat                        STRAND AIRFOIL
+1534  supermarine371i.dat               Supermarine 371-I (root)
+1535  supermarine371ii.dat              Supermarine 371-II (tip)
+1536  tempest1.dat                      HAWKER TEMPEST 37.5% SEMISPAN AIRFOIL
+1537  tempest2.dat                      HAWKER TEMPEST 61% SEMISPAN AIRFOIL
+1538  tempest3.dat                      HAWKER TEMPEST 96.77% SEMISPAN AIRFOIL
+1539  th25816.dat                       TH 25816 HALE AIRFOIL
+1540  trainer60.dat                     TRAINER60
+1541  tsagi12.dat                       TsAGI 12% AIRFOIL
+1542  tsagi8.dat                        TsAGI 8% AIRFOIL
+1543  tsagi_r3a.dat                     TsAGI R-3a (12%)
+1544  ua2-180.dat                       UA(2)-180 (University of Alberta/Marsden)
+1545  ua2-180sm.dat                     UA(2)-180 smoothed, original ycoord oscillate +-0.0003
+1546  ua79sf18.dat                      UNIVERSITY OF ALBERTA UA 79-SF-187 AIRFOIL
+1547  ua79sff.dat                       UNIVERSITY OF ALBERTA UA 79-SF-187 AIRFOIL MAIN ELEMENT
+1548  ua79sfm.dat                       UNIVERSITY OF ALBERTA UA 79-SF-187 AIRFOIL MAIN ELEMENT
+1549  uag8814320.dat                    UAG 88-143/20
+1550  ui1720.dat                        UNIVERSITY OF ILLINOIS UI-1720 AIRFOIL
+1551  ultimate.dat                      ULTIMATE
+1552  us1000root.dat                    US1000ROOT
+1553  usa22.dat                         USA 22 AIRFOIL
+1554  usa25.dat                         USA 25 AIRFOIL
+1555  usa26.dat                         USA 26 AIRFOIL
+1556  usa27.dat                         USA 27 AIRFOIL
+1557  usa27m2.dat                       USA 27 mod. AIRFOIL
+1558  usa28.dat                         USA 28 AIRFOIL
+1559  usa29.dat                         USA 29 AIRFOIL
+1560  usa31.dat                         USA 31 AIRFOIL
+1561  usa32.dat                         USA 32 AIRFOIL
+1562  usa33.dat                         USA 33 AIRFOIL
+1563  usa34.dat                         USA 34 AIRFOIL
+1564  usa35.dat                         USA 35 AIRFOIL
+1565  usa35a.dat                        USA 35 A AIRFOIL
+1566  usa35b.dat                        USA-35B AIRFOIL
+1567  usa40.dat                         USA 40 AIRFOIL
+1568  usa40b.dat                        USA 40 B AIRFOIL
+1569  usa41.dat                         USA 41 AIRFOIL
+1570  usa45.dat                         USA 45 AIRFOIL
+1571  usa45m.dat                        USA 45 M AIRFOIL
+1572  usa46.dat                         USA 46 AIRFOIL
+1573  usa48.dat                         USA 48 AIRFOIL
+1574  usa49.dat                         USA 49 AIRFOIL
+1575  usa5.dat                          USA 5 AIRFOIL
+1576  usa50.dat                         USA 50 AIRFOIL
+1577  usa51.dat                         USA 51 AIRFOIL
+1578  usa98.dat                         USA 98 AIRFOIL
+1579  usnps4.dat                        USNPS4 (smoothed)
+1580  v13006.dat                        BOEING VERTOL V13006-.7 AIRFOIL
+1581  v13009.dat                        BOEING VERTOL V(1.95)3009-1.25 AIRFOIL
+1582  v23010.dat                        BOEING-VERTOL V23010-1.58 AIRFOIL
+1583  v43012.dat                        BOEING VERTOL V43012-1.58 AIRFOIL
+1584  v43015.dat                        BOEING VERTOL V43015-2.48 AIRFOIL
+1585  vr1.dat                           BOEING-VERTOL VR-1 AIRFOIL
+1586  vr11x.dat                         BOEING-VERTOL VR-11X AIRFOIL
+1587  vr12.dat                          BOEING-VERTOL VR-12 AIRFOIL
+1588  vr13.dat                          BOEING-VERTOL VR-13 AIRFOIL
+1589  vr14.dat                          BOEING-VERTOL VR-14 AIRFOIL
+1590  vr15.dat                          BOEING-VERTOL VR-15 AIRFOIL
+1591  vr5.dat                           BOEING-VERTOL VR-5 AIRFOIL
+1592  vr7.dat                           BOEING-VERTOL VR-7 AIRFOIL
+1593  vr7b.dat                          BOEING-VERTOL VR-7 AIRFOIL WITH TAB
+1594  vr8.dat                           BOEING-VERTOL VR-8 AIRFOIL
+1595  vr8b.dat                          BOEING-VERTOL VR-8 AIRFOIL WITH TAB
+1596  vr9.dat                           BOEING-VERTOL VR-9 AIRFOIL
+1597  w1011.dat                         W1011
+1598  w1015.dat                         W1015
+1599  waspsm.dat                        WASP (smoothed)
+1600  wb13535sm.dat                     WB-135/35  13.5%  smoothed
+1601  whitcomb.dat                      WHITCOMB INTEGRAL SUPERCRITICAL AIRFOIL
+1602  ys900.dat                         YS-900
+1603  ys915.dat                         YS-915
+1604  ys920.dat                         YS-920
+1605  ys930.dat                         YS-930

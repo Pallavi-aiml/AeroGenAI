@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# ML artifacts (large)
+ml/vae_full.pt
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Data (raw can be regenerated)
+data/uiuc_airfoils/raw/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store

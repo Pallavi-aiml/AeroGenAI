@@ -1,0 +1,22 @@
+# Phase 1 — Data Pipeline
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+numpy>=1.26.0
+scipy>=1.12.0
+
+# Phase 2 — Backend
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.6.0
+
+# Phase 3 — XFoil integration
+# Install xfoil binary separately:
+#   Windows: download xfoil.exe → place in PATH
+#   Mac:     brew install xfoil
+#   Ubuntu:  sudo apt install xfoil
+
+# Phase 5 — β-VAE / ML
+# Install when ready to train:
+#   pip install torch torchvision onnx onnxruntime
+# For inference only (no training):
+#   pip install onnxruntime
