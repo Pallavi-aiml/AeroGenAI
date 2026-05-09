@@ -43,7 +43,7 @@ Aerogenai/
 
 ## Quick Start
 
-### Phase 1 — Data Pipeline (already done ✓)
+### Phase 1 — Data Pipeline 
 ```
 pip install requests beautifulsoup4 numpy scipy
 python data/pipeline/run_pipeline.py
